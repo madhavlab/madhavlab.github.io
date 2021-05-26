@@ -4,8 +4,8 @@
 title: MADHAV
 
 
-baseurl:  "/madhavtest" # the subpath of the site
-url: "" # the base hostname & protocol for the site
+baseurl:  "" # the subpath of the site
+url: "https://madhavlab.github.io" # the base hostname & protocol for the site
 
 
 
