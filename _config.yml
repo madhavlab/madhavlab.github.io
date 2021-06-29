@@ -11,7 +11,7 @@ url: "https://madhavlab.github.io" # the base hostname & protocol for the site
 
 header:
   pages:
-    - name: Projects
+    - name: Home
       slug: /
     - name: Outcomes
     - name: Members
