@@ -7,9 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Machine Analysis of Data for Human Audition and Visualization Lab
   Set up by Prof. Vipul Arora, Department of Electrical Engineering, IIT Kanpur.
 
-baseurl: "/madhavlab" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
-url: "https://shivnp.github.io" # the base hostname & protocol for your site
+url: "https://madhavlab.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: madhav
