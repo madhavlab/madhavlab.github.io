@@ -15,9 +15,9 @@ Optimization, Computer Vision, Agriculture, Autonomous Navigation
         
 
 
-## Updates
+## Open Postions
 
-- <span style="color:rgb(159, 0, 0)"><b>*OPEN POSITIONS:*</b></span> We are always looking for postdocs and senior researchers for automatic speech recognition and related problems and/or long-term research interns starting in June 2022. Please visit this link for open positions in our group.
+We are always looking for postdocs and senior researchers for automatic speech recognition and related problems and/or long-term research interns starting in June 2022. Please visit this link for open positions in our group.
 
 - <span style="color:rgb(159, 0, 0)"><b>*June 2022 - Long-term Research Internship:*</b></span> If you are interested in 6-month to 1-year research-focused internships in machine learning/deep learning/computer vision/audio processing and have relevant background (coursework/projects in machine learning/deep learning, exposure to reading/writing papers in top-tier conferences), please send an email with subject line “Long-term Research Position at MADHAVLab” to discuss more. We expect to have positions starting in August 2022.
 
