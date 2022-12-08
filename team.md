@@ -7,8 +7,8 @@ title: Our Team
 - Dr. Vipul Arora
 
 ## Post Doctorate Students
-- Sagar Dutta
 - Nagarathna R
+- Sagar Dutta
 
 ## PhD Students
 - Adhiraj Banerjee
@@ -31,12 +31,13 @@ title: Our Team
 - Jagadeesh K Babu
 
 ## Research Associates/Staff
-- Shiv Narayan Pandey
-- Suraj Jaiswal
+- Ankita Bhattacharya
 - Akshay Raina
 - Divyanshu Tripathi
-- Surjit Singh
+- Haritima Sharma
+- Priya Mishra
 - Kajal Heer
 - Renu Sameer Chavan
-- Haritima Sharma
-- Ankita Bhattacharya
+- Surjit Singh
+- Suraj Jaiswal
+- Shiv Narayan Pandey
