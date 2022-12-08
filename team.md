@@ -26,7 +26,7 @@ title: Our Team
 - Ali Faraz
 - Abhishek Saini
 - Gaurav Tank
-- Thisyan Raj
+- Thishyan Raj T
 - Raja Raviteja
 - Jagadeesh K Babu
 
