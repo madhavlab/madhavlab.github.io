@@ -25,12 +25,13 @@ Optimization, Computer Vision, Agriculture, Autonomous Navigation
 
 - <span style="color:rgb(159, 0, 0)"><b>*Nov 2021 - PhD:*</b></span> We will be recruiting students through our PhD programme in Nov/Dec 2022. Kindly see this [<ins>EE department</ins>](https://iitk.ac.in/ee/admissions) link for details.
 
+
 <!--twitter box-->
 <div class="tweets" style="height: 10em; float: right; width: 48%; border-radius: 1em ;border: 5px solid rgb(199, 199, 199); overflow-y: auto;">
     <a class="twitter-timeline" href=
-           "https://twitter.com/geeksforgeeks?ref_src=twsrc%5Etfw">
+           "https://twitter.com/madhavlab">
           <!-- In your code value of href tag will be changed -->
-          Tweets by Geeksforgeeks
+          Tweets by MadhavLab
     </a>
     
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
