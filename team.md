@@ -36,7 +36,7 @@ title: Our Team
 - Divyanshu Tripathi
 - Haritima Sharma
 - Priya Mishra
-- Kajal Heer
+- Kajal
 - Renu Sameer Chavan
 - Surjit Singh
 - Suraj Jaiswal
