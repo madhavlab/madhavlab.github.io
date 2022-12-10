@@ -1,18 +1,18 @@
 # Site settings
-title: MadhavLab@IITK
-general_email: madhavlab5459@gmail.com
+title: MADHAV Lab @ IITK
+general_email: madhavlab.iitk@gmail.com
 academic_email: shivnp@iitk.ac.in
 
 description: > # this means to ignore newlines until "baseurl:"
-  Machine Analysis of Data for Human Audition and Visualization Lab
-  Set up by Prof. Vipul Arora, Department of Electrical Engineering, IIT Kanpur.
+  Machine Analysis of Data for Human Audition and Visualization Lab,
+  led by Prof. Vipul Arora, Department of Electrical Engineering, IIT Kanpur
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://madhavlab.github.io" # the base hostname & protocol for your site
 
-# twitter_username: jekyllrb
-github_username: madhav
+twitter_username: madhavlab
+github_username: madhavlab
 #linkedin_username: linkedin_username
 #facebook_username: facebook_username
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
