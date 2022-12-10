@@ -24,11 +24,11 @@ from real-world use.
 
 We are looking for postdocs and senior researchers for automatic speech recognition and related problems and/or long-term research interns starting in Jan 2023.
 
-- <span style="color:rgb(159, 0, 0)"><b>*Dec 2022 - Long-term Research Internship:*</b></span> If you are interested in 6-month to 1-year research-focused internships in machine learning/deep learning/computer vision/audio processing and have relevant background (coursework/projects in machine learning/deep learning, exposure to reading/writing papers in top-tier conferences), please send an email with subject line “Long-term Research Position at MADHAVLab” to discuss more. 
+- <span style="color:rgb(159, 0, 0)"><b>*Dec 2022 - Long-term Research Internship:*</b></span> If you are interested in 6-month to 1-year research-focused internships in machine learning/deep learning/computer vision/audio processing and have relevant background (coursework/projects in machine learning/deep learning, exposure to reading/writing papers in top-tier conferences), please send an email with subject line “Long-term Research Position at MADHAV Lab”. 
 
-- <span style="color:rgb(159, 0, 0)"><b>*Dec 2022 - MS(R):*</b></span> If you are already an MS(R) student at IIT K, and are intersted in working in the lab, please send an email with the subject line "MSR Supervision at MADHAVLab". We are always looking for motivated students in this category.
+<!-- - <span style="color:rgb(159, 0, 0)"><b>*Dec 2022 - MS(R):*</b></span> If you are already an MS(R) student at IIT K, and are intersted in working in the lab, please send an email with the subject line "MSR Supervision at MADHAVLab". We are always looking for motivated students in this category. -->
 
-- <span style="color:rgb(159, 0, 0)"><b>*Dec 2021 - PhD:*</b></span> We will be recruiting students through our PhD programme in Nov/Dec 2022. Kindly see this [<ins>EE department</ins>](https://iitk.ac.in/ee/admissions) link for details.
+<!-- - <span style="color:rgb(159, 0, 0)"><b>*Dec 2021 - PhD:*</b></span> We will be recruiting students through our PhD programme in Nov/Dec 2022. Kindly see this [<ins>EE department</ins>](https://iitk.ac.in/ee/admissions) link for details. -->
 
 
 <!--twitter box-->
