@@ -32,7 +32,7 @@ We are looking for postdocs and senior researchers for automatic speech recognit
 
 
 <!--twitter box-->
-<div class="tweets" style="height: 15em; float: right; width: 48%; border-radius: 1em ;border: 5px solid rgb(199, 199, 199); overflow-y: auto;">
+<div class="tweets" style="height: 200; float: right; width: 48%; border-radius: 1em ;border: 5px solid rgb(199, 199, 199); overflow-y: auto;">
     <a class="twitter-timeline" href=
            "https://twitter.com/madhavlab">
           <!-- In your code value of href tag will be changed -->
