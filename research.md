@@ -17,16 +17,16 @@ title: Publications
 
 
 
-## <span style="color:green">Patents</span>
+## Patents
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", filed in USA, 2021.
 * Vipul Arora, "System and method for Music Training", filed in India, 2021
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", WO 2018/193241, filed in Great Britain, April 2017.
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "System and Method for Automatic Speech Analysis", EP3613046A1, European patent office, Feb 2020 (pending)
 
-## <span style="color: orangered">Book Chapters</span>
+## Book Chapters
 * Vipul Arora and Henning Reetz, "Automatic Speech Recognition: what phonology can offer" in Lexical Processing of Speech, deGruyter/Mouton, 2017
 
-## <span style="color: orangered">Conference Publications</span>
+## Conference Publications
 * Aman Sharma, Kavya Saxena and Vipul Arora, "Frequency-Anchored Deep Networks for Polyphonic Melody Extraction", in Proceedings of National Conference on Communications (NCC), 2021.
 * Shivangi Ranjan and Vipul Arora, "A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming", in IEEE Conference on Information and Communication Technology (CICT), 2020, pp. 1–5
 * Satyam Kumar, Tharun Kumar Reddy, Vipul Arora, and Laxmidhar Behera, "Formulating Divergence Framework For Multiclass Motor Imagery EEG Brain Computer Interface", IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020.
@@ -48,7 +48,7 @@ title: Publications
 * Pawan Goyal, Vipul Arora, Laxmidhar Behera and Martin McGinnity, "Tagging of Text with Emotion for Emotional Speech Synthesis," in Proc. Information Technology and Telecommunications Conf., GMIT, Galway, pp 111-118, 2008.
 
 
-## <span style="color:green">Other Publications</span>
+## Other Publications
 * Shivam Pal, Pawan Goyal and Vipul Arora, "Finding Prerequisite Relations between Concepts using Textbook", arXiv:2011.10337, 2020.
 * Vipul Arora, Laxmidhar Behera and Ajay Pratap Yadav, "Optimal Convergence Rate in Feed Forward Neural Networks using HJB Equation", arXiv preprint, arXiv:1504.07278, 2015.
 * Vipul Arora, Aditi Lahiri and Henning Reetz, "Phonological Features for Digit Recognition," in American Society of Acoustics (ASA) meeting, Jacksonville, November 2015.
