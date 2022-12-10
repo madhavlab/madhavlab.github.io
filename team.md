@@ -4,7 +4,7 @@ permalink: /team/
 title: Our Team
 ---
 ## Faculty
-- Dr. Vipul Arora
+- [Dr. Vipul Arora](http://home.iitk.ac.in/~vipular/) 
 
 ## Post Doctoral Fellows
 - Dr. Nagarathna R
