@@ -9,7 +9,16 @@ the field, by carrying out impactful research in the areas of deep learning,
 machine learning and speech processing, guided by application contexts derived 
 from real-world use.
     
-**Keywords:** Machine Learning, Audio Signal Processing, Generative Modeling.
+## Research interests:
+
+- Machine learning for audio signal processing
+    - audio retrieval: representation learning
+    - speech recognition: confidence estimation
+    - music analysis: explainable AI and domain adaptation
+- Machine learning for Physics
+    - generative modeling, normalizing flows, adversarial learning
+- Time series analysis on sensor data
+    - domain adaptation, semi-supervised learning
 
 ## Open Postions
 
