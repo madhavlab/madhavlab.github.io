@@ -16,7 +16,7 @@ from real-world use.
     - speech recognition: confidence estimation
     - music analysis: explainable AI and domain adaptation
 - Machine learning for Physics
-    - generative modeling, normalizing flows, adversarial learning
+    - generative modeling, normalizing flows, adversarial learning, Monte Carlo
 - Time series analysis on sensor data
     - domain adaptation, semi-supervised learning
 
