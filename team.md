@@ -6,9 +6,9 @@ title: Our Team
 ## Faculty
 - Dr. Vipul Arora
 
-## Post Doctorate Students
-- Nagarathna R
-- Sagar Dutta
+## Post Doctoral Fellows
+- Dr. Nagarathna R
+- Dr. Sagar Dutta
 
 ## PhD Students
 - Adhiraj Banerjee
@@ -16,9 +16,9 @@ title: Our Team
 - Anup Singh
 - Ankur Singha
 - Kavya R Saxena
-- PVR Manikanta
+- P V R Manikanta
 - Parampreet Singh
-- Rahul Kodag
+- Rahul Kodag (on leave)
 - Sumit Kumar
 - Vikas Kumar
 
@@ -28,9 +28,8 @@ title: Our Team
 - Gaurav Tank
 - Thishyan Raj T
 - Raja Raviteja
-- Jagadeesh K Babu
 
-## Research Associates/Staff
+## Research Associates
 - Ankita Bhattacharya
 - Akshay Raina
 - Divyanshu Tripathi
@@ -41,3 +40,9 @@ title: Our Team
 - Surjit Singh
 - Suraj Jaiswal
 - Shiv Narayan Pandey
+
+## Past Members
+- PhD
+    - Tharun Reddy (2020), now at IIT Roorkee
+- Masters
+- Research Associates
