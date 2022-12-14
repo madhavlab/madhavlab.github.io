@@ -4,7 +4,7 @@ layout: default
 # **Welcome to the Machine Analysis of Data for Human Audition and Visualization Lab**
 Our group’s research interests lie at the intersection of the theory and application 
 of machine learning - with a focus on applications in audio and speech processing, and
-Physics (generative learning and Monte Carlo). With a strong interest in the mathematical fundamentals and a passion for real-world application, our group aims on being at the forefront of 
+Physics. With a strong interest in the mathematical fundamentals and a passion for real-world application, our group aims on being at the forefront of 
 the field, by carrying out impactful research in the areas of deep learning, 
 machine learning and speech processing, guided by application contexts derived 
 from real-world use.
@@ -15,8 +15,8 @@ from real-world use.
     - audio retrieval: representation learning
     - speech recognition: confidence estimation
     - music analysis: explainable AI and domain adaptation
-- Machine learning for Physics
-    - generative modeling, normalizing flows, adversarial learning, Monte Carlo
+- Generative Machine learning
+    - Normalizing flows, adversarial learning, Monte Carlo, application in Physics (lattice QCD and statistical physics)
 - Time series analysis on sensor data
     - domain adaptation, semi-supervised learning
 
