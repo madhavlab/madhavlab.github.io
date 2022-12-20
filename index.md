@@ -22,7 +22,8 @@ from real-world use.
 
 ## Open Postions
 
-We are looking for postdocs and senior researchers for automatic speech recognition and related problems and/or long-term research interns starting in Jan 2023.
+- Available [UG projects](stuff/2023_UGPs.md) (June 2022)
+- We are looking for postdocs and senior researchers for automatic speech recognition and related problems and/or long-term research interns starting in Jan 2023.
 
 - <span style="color:rgb(159, 0, 0)"><b>*Dec 2022 - Long-term Research Internship:*</b></span> If you are interested in 6-month to 1-year research-focused internships in machine learning/deep learning/computer vision/audio processing and have relevant background (coursework/projects in machine learning/deep learning, exposure to reading/writing papers in top-tier conferences), please send an email with subject line “Long-term Research Position at MADHAV Lab”. 
 
