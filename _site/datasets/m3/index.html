@@ -95,7 +95,7 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 	<nav class="navbar navbar-expand-sm navbar-light px-0">
 
 		<!-- Navbar brand -->
-		<a class="navbar-brand" href="/">Sigmedia</a>
+		<a class="navbar-brand" href="/">MADHAV Lab</a>
 
 		<!-- Navbar toggler button -->
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
@@ -156,7 +156,7 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 
   <header class="post-header">
     <h1 style="font-size:2.4rem" class="post-title p-name" itemprop="name
-    headline">Synth Birds Database - Synthesized Birds Database with Ground Truth Pitch</h1>
+    headline">MADHAV Lab Mistake Detection for Music Teaching (M3) Database.</h1>
     <br>
     <p class="post-meta"><time class="dt-published" datetime="" itemprop="datePublished">
         
@@ -164,44 +164,29 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <h2 id="global-information">Global information</h2>
+    <h2 id="description">Description</h2>
+
+<p>M3 is a collection of real and synthetically generated audio recordings of periodic tics with the fundamental time period of 1 second. The recordings are done with a number of phones and in a variety of acoustic background conditions. There are 170 real audio recordings and 17000 (100 synthetic recordings per real recording) in this database. For further details on acquisition and synthetic data generation, refer to the accompanying paper below.</p>
+
+<h2 id="overview">Overview</h2>
 
 <ul>
-  <li>Download link: <a href="https://drive.google.com/file/d/14kQmAWQvFDxYuTRQ--jxV9GSEwETmptH/view?usp=sharing">Google Drive</a></li>
-  <li>Contact: <a href="mailto:sigmediag_database@tcd.ie">sigmedia_database@tcd.ie</a> - The subject <strong>must start</strong> with the tag [SynthBirdsDB Question] (If the tag is not provided or invalid, your email will be ignored)</li>
+  <li>Download the dataset from <a href="https://onedrive.com">this</a> link.</li>
+  <li>Contributors: <a href="https://madhavlab-iitk.github.io/team/jsuraj">Suraj Jaiswal</a>, <a href="https://madhavlab-iitk.github.io/team/kajalheer">Kajal Nagra</a>, <a href="https://madhavlab-iitk.github.io/team/renuch">Renu Chavan</a> and <a href="https://madhavlab-iitk.github.io/team/shivnp">Shiv Narayana Pandey</a></li>
+  <li>Contact: <a href="mailto:vipular@iitk.ac.in">vipular@iitk.ac.in</a></li>
   <li>License:</li>
   <li>Reference:</li>
 </ul>
 
-<div class="language-bibtex highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">OReilly2017</span><span class="p">,</span>
-    <span class="na">title</span>        <span class="p">=</span> <span class="s">{Pitch tracking of bird vocalizations and an automated process using YIN-bird}</span><span class="p">,</span>
-    <span class="na">author</span>       <span class="p">=</span> <span class="s">{O'Reilly, Colm and Harte, Naomi}</span><span class="p">,</span>
-    <span class="na">year</span>         <span class="p">=</span> <span class="m">2017</span><span class="p">,</span>
-    <span class="na">month</span>        <span class="p">=</span> <span class="nv">jan</span><span class="p">,</span>
-    <span class="na">journal</span>      <span class="p">=</span> <span class="s">{Cogent Biology}</span><span class="p">,</span>
-    <span class="na">publisher</span>    <span class="p">=</span> <span class="s">{Cogent OA}</span><span class="p">,</span>
-    <span class="na">volume</span>       <span class="p">=</span> <span class="m">3</span><span class="p">,</span>
-    <span class="na">number</span>       <span class="p">=</span> <span class="m">1</span><span class="p">,</span>
-    <span class="na">pages</span>        <span class="p">=</span> <span class="m">1322025</span><span class="p">,</span>
-    <span class="na">doi</span>          <span class="p">=</span> <span class="s">{10.1080/23312025.2017.1322025}</span><span class="p">,</span>
+<div class="language-bibtex highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nc">@article</span><span class="p">{</span><span class="nl">raina2022syncnet</span><span class="p">,</span>
+  <span class="na">title</span><span class="p">=</span><span class="s">{SyncNet: Correlating Objective for Time Delay Estimation in Audio Signals}</span><span class="p">,</span>
+  <span class="na">author</span><span class="p">=</span><span class="s">{Raina, Akshay and Arora, Vipul}</span><span class="p">,</span>
+  <span class="na">journal</span><span class="p">=</span><span class="s">{arXiv preprint arXiv:2203.14639}</span><span class="p">,</span>
+  <span class="na">year</span><span class="p">=</span><span class="s">{2023}</span>
 <span class="p">}</span>
 </code></pre></div></div>
 
-<h2 id="description">Description</h2>
-
-<p>The synthesized birds database contains the following:</p>
-
-<ol>
-  <li>Recordings of bird song taken from xeno-canto.org (converted to .wav).</li>
-  <li>Synthesized versions of these recordings using SMS tools (<a href="http://mtg.upf.edu/technologies/sms">http://mtg.upf.edu/technologies/sms</a>), a python implementation music synthesis toolkit, in .wav format. These audio files were synthesized using a sinusoid plus residual (SpR) system.</li>
-  <li>A ground truth pitch vector, used by the synthesis system, in .mat format (loadable to matlab).</li>
-  <li>Sine model and residual .wav files are also included.</li>
-  <li>Matlab file “a1_plot_all.m” that plots the original recording’s spectrogram, the synthesized recording’s spectrogram and the ground truth pitch.</li>
-</ol>
-
-<p>The bird song recordings were grouped into whistles (107 examples, 40m 09s), trills (65 examples, 13m 02s) and nasal (63 examples, 12m 32s) sounds. This data set was used in experiments for work currently submitted to Interspeech 2016.</p>
-
-  </div><a class="u-url" href="/datasets/syn_bird/" hidden></a>
+  </div><a class="u-url" href="/datasets/m3/" hidden></a>
 </article>
 
       </div>
@@ -212,7 +197,7 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 		<div class="row d-flex">
 
 			<div class="col-sm-6">
-				<p class="font-weight-bold">Sigmedia</p>
+				<p class="font-weight-bold">MADHAV Lab</p>
 
 				<ul class="list-unstyled list-inline">
 					<li class="list-inline-item">
@@ -226,7 +211,9 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 			<div class="col-sm-3">
 				<p class="font-weight-bold">Links</p>
 				<ul class="list-unstyled">
-					<li><a href="https://github.com/madhavlab">Github</a></li>
+					<li><a href="https://twitter.com/madhavlab" target="_blank">Twitter</a></li>
+                    <li><a href="https://linkedin.com/company/madhav-lab" target="_blank">LinkedIn</a></li>
+					<li><a href="https://github.com/madhavlab" target="_blank">Github</a></li>
 				</ul>
 			</div>
 
@@ -240,7 +227,7 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 		</div>
 
 		<div class="footer-copyright text-center py-3">
-			© 2023 Sigmedia - Signal Processing and Media Applications
+			© 2023 MADHAV Lab - Machine Analysis of Data for Human Audition and Visualization Lab
 		</div>
 	</div>
 </div>
