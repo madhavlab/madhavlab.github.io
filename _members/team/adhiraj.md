@@ -3,7 +3,7 @@ layout: member
 category: PhD-Student
 title: Adhiraj Banerjee
 date: 2019-08-01
-image: adhiraj.png
+image: adhiraj.jpeg
 role: Representation Learning
 permalink: 'team/adhiraj'
 social:

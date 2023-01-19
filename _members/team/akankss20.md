@@ -3,7 +3,7 @@ layout: member
 category: PhD-Student
 title: Akanksha Singh
 date: 2021-06-01
-image: akankss20.png
+image: akankss20.jpeg
 role: Spoken term detection
 
 permalink: 'team/akankss20'

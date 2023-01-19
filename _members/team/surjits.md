@@ -3,7 +3,7 @@ layout: member
 category: Project-Associate
 title: Surjit Singh
 date: 2022-08-01
-image: surjits.png
+image: surjits.jpeg
 role: Data Annotation
 
 permalink: 'team/surjits'

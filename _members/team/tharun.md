@@ -3,7 +3,7 @@ layout: member
 category: alumni
 title: Dr. Tharun Reddy
 date: 2020-01-01
-image: tharunreddy.png
+image: tharunreddy.jpeg
 hereas: 'Here as: PhD Student'
 current: 'Current: Asst. Professor, IIT Roorkie'
 permalink: 'team/tharun'
