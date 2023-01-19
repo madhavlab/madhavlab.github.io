@@ -1,10 +1,10 @@
 ---
 layout: member
 category: PhD-Student
-title: 'Anup Singh'
+title: 'Anup Singh (Visiting)'
 image: 'sanup.jpeg'
 date: 2021-01-11
-role: (Visiting) Representation learning for audio retrieval tasks
+role: Representation learning for audio retrieval tasks
 permalink: 'team/sanup'
 social:
     linkedin: https://www.linkedin.com/in/anup-singh-a84a7476/

@@ -17,3 +17,6 @@ social:
     email: jsuraj@iitk.ac.in
 
 ---
+
+Suraj Jaiswal is a researcher in the field of Music Information Retrieval and AI. His work focuses on exploring and working in the field of MIR to tackle important challenges in musicology through the use of technology. He has experience in deploying large-scale research projects in field of MIR and Audio.
+

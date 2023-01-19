@@ -4,7 +4,7 @@ category: Postdoc
 title: Sagar Dutta
 date: 2022-01-09
 image: sagard.jpeg
-role: Deep learning based Audio Content Retrieval
+role: Audio Content Retrieval
 permalink: 'team/sagard'
 social:
     linkedin: https://www.linkedin.com/in/sagar-dutta-971497215/
