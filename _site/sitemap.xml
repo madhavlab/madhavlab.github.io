@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/team/</loc>
-<lastmod>2023-01-25T02:28:06+05:30</lastmod>
+<lastmod>2023-01-25T02:33:43+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/vipular</loc>
@@ -176,10 +176,10 @@
 <loc>http://localhost:4000/jobs/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/datasets/m3/</loc>
+<loc>http://localhost:4000/outcomes/datasets/m3/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/datasets/mtic/</loc>
+<loc>http://localhost:4000/outcomes/datasets/mtic/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/outcomes/</loc>

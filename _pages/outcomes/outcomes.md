@@ -6,8 +6,8 @@ permalink: /outcomes/
 ---
 
 ### Datasets
-- [MADHAV Lab Mistake Detection for Music Teaching (M3) Database](m3/)
-- [MADHAV Lab Tic Database](mtic/)
+- [MADHAV Lab Mistake Detection for Music Teaching (M3) Database](datasets/m3)
+- [MADHAV Lab Tic Database](datasets/mtic/)
 
 ### Softwares
 [Automatic Music Tutor](https://vipular.github.io/narottam.github.io/)
