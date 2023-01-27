@@ -1,7 +1,7 @@
 ---
 title: Outcomes
 layout: page
-excerpt: MADHAV Lab Datasets
+excerpt: Outcomes
 permalink: /outcomes/
 ---
 

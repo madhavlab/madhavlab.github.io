@@ -2,7 +2,7 @@
 layout: member
 category: PhD-Student
 title: 'Rahul Kodag'
-image: 'rkodag.jpeg'
+image: 'placeholder-m.jpeg'
 date: 2019-08-01
 role: Confidence Estimation
 permalink: 'team/rkodag'

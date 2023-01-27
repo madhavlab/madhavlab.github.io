@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/team/</loc>
-<lastmod>2023-01-25T02:33:43+05:30</lastmod>
+<lastmod>2023-01-27T18:51:03+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/vipular</loc>
@@ -109,6 +109,10 @@
 <lastmod>2021-12-10T00:00:00+05:30</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/team/ankitab</loc>
+<lastmod>2022-01-02T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/team/kajalheer</loc>
 <lastmod>2022-01-07T00:00:00+05:30</lastmod>
 </url>
@@ -137,11 +141,7 @@
 <lastmod>2022-08-01T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/team/ankitab</loc>
-<lastmod>2022-09-01T00:00:00+05:30</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/team/haritima</loc>
+<loc>http://localhost:4000/team/haritimas</loc>
 <lastmod>2022-09-01T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -159,6 +159,9 @@
 <url>
 <loc>http://localhost:4000/video/2020/05/20/qualcomm.html</loc>
 <lastmod>2020-05-20T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023_UGPs/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/software/avsr_tf1</loc>
@@ -198,9 +201,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/software/visqol_sqm</loc>
-</url>
-<url>
-<loc>http://localhost:4000/stuff/2023_UGPs.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/publis/attachments/2021/Comparison_of_discrete_transforms_for_DNN_based_speech_enhancement.pdf</loc>
