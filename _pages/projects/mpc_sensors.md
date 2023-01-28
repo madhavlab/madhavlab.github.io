@@ -11,7 +11,7 @@ permalink: /projects/mpc_sensors/
 
 ## Description
 
-<img class="img-cover mb-3" src="/assets/images/projects/2021_sensors_graph_abs.png" width="640" height="840">
+<img class="img-cover mb-3" src="/assets/images/projects/2021_sensors_graph_abs.png" width="800" height="340">
 <br />
 
 Measuring Air Quality in urban areas is necessary for public health. CAAQMS setups provide high precision measurements but are very costly. To make dense networks of air quality sensors, we need low cost sensors. Such sensors do exist but have low fidelity. We are developing machine learning based methods to calibrate the measurements of low cost sensors (LCS) to have high fidelity.
