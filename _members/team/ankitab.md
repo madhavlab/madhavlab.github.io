@@ -2,8 +2,8 @@
 layout: member
 category: Project-Associate
 title: Ankita Bhattacharya
-date: 2022-09-01
-image: placeholder-f.jpeg
+date: 2022-01-02
+image: ankitab.jpeg
 role: Data Annotation
 
 permalink: 'team/ankitab'

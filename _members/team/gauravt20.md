@@ -2,7 +2,7 @@
 layout: member
 category: Masters-Students
 title: 'Gaurav Tank'
-image: 'gauravt20.jpeg'
+image: 'gauravt20.png'
 date: 2020-08-01
 role: Sound Event Detection
 permalink: 'team/gauravt20'

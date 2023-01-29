@@ -3,7 +3,7 @@ layout: member
 category: PhD-Student
 title: Parampreet Singh
 date: 2021-08-01
-image: params21.png
+image: params21.jpeg
 role: MIR, Explainable AI
 
 permalink: 'team/params21'
