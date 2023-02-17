@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project Associates
+category: Project-Associate
 title: Shiv Narayan Pandey
 date: 2019-01-01
 image: shivnp.jpg
