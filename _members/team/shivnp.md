@@ -1,7 +1,7 @@
 ---
 layout: member
-category: Project-Associate
-title: Shiv Narayana Pandey
+category: Data Analyst
+title: Shiv Narayan Pandey
 date: 2019-01-01
 image: placeholder-m.jpeg
 role: Data Handling
