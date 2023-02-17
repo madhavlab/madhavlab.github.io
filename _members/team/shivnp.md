@@ -3,7 +3,7 @@ layout: member
 category: Data Analyst
 title: Shiv Narayan Pandey
 date: 2019-01-01
-image: placeholder-m.jpeg
+image: shivnp.jpg
 role: Data Handling
 
 permalink: 'team/shivnp'
