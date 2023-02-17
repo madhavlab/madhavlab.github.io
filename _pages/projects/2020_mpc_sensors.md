@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra
+permalink: /projects/2020_mpc_sensors/
 ---
 
 ## Overview

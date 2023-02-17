@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Voice Biomarkers for Digital Health
+permalink: /projects/2023_buffalo_digital_biomarkers/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [University of Buffalo]().
+  - Project duration- approved recently
 
 ## Description
 

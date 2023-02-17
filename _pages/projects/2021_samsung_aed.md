@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: AI Based Ambient Acoustic Analysis System
+permalink: /projects/2021_samsung_aed/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [Samsung Research India]().
+  - Project duration- Nov 2021 to Dec 2022
 
 ## Description
 

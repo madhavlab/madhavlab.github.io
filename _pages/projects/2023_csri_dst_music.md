@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Studying cognitive similarity of music using deep embeddings and behavioral studies with applications in music search and pedagogy
+permalink: /projects/2023_csri_dst_music/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [CSRI]() and [Department of Science and Technology (DST), GoI]().
+  - Project duration- approved recently
 
 ## Description
 

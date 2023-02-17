@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Machine Learning for Lattice Theories in Physics
+permalink: /projects/2022_serb_lattice_theory/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [SERB]().
+  - Project duration- March 2022 to ongoing
 
 ## Description
 

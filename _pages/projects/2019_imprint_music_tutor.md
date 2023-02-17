@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Smart music tutor for Indian classical music (vocal and instrumental)
+permalink: /projects/2019_imprint_music_tutor/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [IMPRINT-2C SERB]().
+  - Project duration- Dec 2019 to Dec 2021
 
 ## Description
 

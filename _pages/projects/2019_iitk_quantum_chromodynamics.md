@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Machine learning for Physics with focus on Quantum Chromodynamics
+permalink: /projects/2019_iitk_quantum_chromodynamics/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [IIT Kanpur]().
+  - Project duration- March 2019 to March 2022
 
 ## Description
 

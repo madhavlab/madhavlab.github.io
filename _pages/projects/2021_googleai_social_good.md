@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: AI-based Smart Assistant for Child Deliveries in Low Resource Areas
+permalink: /projects/2021_googleai_social_good/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [Google AI]().
+  - Project duration- July 2021 to June 2022
 
 ## Description
 

@@ -2,18 +2,18 @@
 layout: member 
 category: Postdoc
 title: Nagarathna Ravi
-date: 2020-12-01
+date: 2020-05-24
 image: rathna.jpeg
 role: Automatic Speech Recognition
 permalink: 'team/rathna'
 social:
     twitter:
-    linkedin: https://www.linkedin.com/in/justine-reverdy-199b2284/
-    google-scholar: https://scholar.google.com/citations?user=EV7eZ3kAAAAJ&hl=fr
-    research-gate: https://www.researchgate.net/profile/Justine-Reverdy
+    linkedin: 
+    google-scholar: https://scholar.google.com/citations?user=DjGaMp4AAAAJ&hl=en
+    research-gate:
     github:
     website:
-    email: reverdyj@tcd.ie
+    email: rathna@iitk.ac.in
     orcid:
 ---
 

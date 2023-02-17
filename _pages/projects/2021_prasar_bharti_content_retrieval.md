@@ -1,36 +1,13 @@
 ---
 layout: post
-title: MADHAV Lab Mistake Detection for Music Teaching (M3) Database.
-permalink: /projects/csri_dst_music/
----
-
-## Description
-
-M3 is a 
-
-
-
-## Overview
-
-  - Download the dataset from [this](https://onedrive.com) link.
-  - Contributors: [Suraj Jaiswal](https://madhavlab.github.io/team/jsuraj), [Kajal Nagra](https://madhavlab.github.io/team/kajalheer), [Renu Chavan](https://madhavlab.github.io/team/renuch) and [Shiv Narayana Pandey](https://madhavlab.github.io/team/shivnp)
-  - Contact: [vipular@iitk.ac.in](mailto:vipular@iitk.ac.in)
-  - License:
-  - Reference:
-
-```bibtex
-
-```
----
-layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Archival Content Retrieval through Audio and Text Query
+permalink: /projects/2021_prasar_bharti_content_retrieval/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [Prasar Bharati]().
+  - Project duration- July 2021 to ongoing
 
 ## Description
 

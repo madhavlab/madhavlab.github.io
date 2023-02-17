@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Acoustic Scene Analysis with Deep Embeddings
+permalink: /projects/2020_asem_duo_scene_analysis/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [ASEM DUO]().
+  - Project duration- Jan 2020 to Dec 2021
 
 ## Description
 

@@ -7,10 +7,10 @@ date: 2020-08-01
 role: Sound Event Detection
 permalink: 'team/gauravt20'
 social:
-    linkedin: https://www.linkedin.com/in/arkaprava-biswas-214096187
+    linkedin: https://www.linkedin.com/in/tankgauravgt/
     twitter: 
     google-scholar: 
-    github: https://github.com/2021arkaprava
+    github: https://github.com/tankgauravgt
     website: 
     orcid: 
     research-gate:

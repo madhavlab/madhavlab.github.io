@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Machine Learning Based Calibration of Air Quality Sensors
-permalink: /projects/mpc_sensors/
+title: Automatic Speech Recognition for Speech Subtitling (Making Broadcast Content in various Indian Languages Accessible)
+permalink: /projects/2021_prasar_bharti_asr/
 ---
 
 ## Overview
 
-  - Project funded by [Maharashtra Pollution Control Board]() and [Bloomberg Philanthropies]().
-  - Project duration- June 2020 to May 2021
+  - Project funded by [Prasar Bharati]().
+  - Project duration- July 2021 to ongoing
 
 ## Description
 
