@@ -20,4 +20,5 @@ The overarching goal of this project is audio-based content retrieval. We will d
 
 ## Publications
 - Anup Singh, Kris Demuynck, and Vipul Arora, "Attention-Based Audio Embeddings for Query-by-Example", In ISMIR, 2022.
+- Anup Singh, Kris Demuynck, and Vipul Arora, "Simultaneously Learning Robust Audio Embeddings and balanced Hash codes for Query-by-Example", in ICASSP, 2023
 - 
