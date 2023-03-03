@@ -6,20 +6,17 @@ permalink: /projects/2021_prasar_bharti_asr/
 
 ## Overview
 
-  - Project funded by [Prasar Bharati]().
+  - Project funded by [Prasar Bharati](https://prasarbharati.gov.in/).
   - Project duration- July 2021 to ongoing
 
 ## Description
 
-<img class="img-cover mb-3" src="/assets/images/projects/2021_sensors_graph_abs.png" width="800" height="340">
-<br />
+<!-- <img class="img-cover mb-3" src="/assets/images/projects/2021_sensors_graph_abs.png" width="800" height="340">
+<br /> -->
 
-Measuring Air Quality in urban areas is necessary for public health. CAAQMS setups provide high precision measurements but are very costly. To make dense networks of air quality sensors, we need low cost sensors. Such sensors do exist but have low fidelity. We are developing machine learning based methods to calibrate the measurements of low cost sensors (LCS) to have high fidelity.
+Prasar Bharati is India's largest broadcasting agency, broadcasting audio and video content via All India Radio and Doordarshan. It has a humungous wealth of audio and video content. In this age of digitization and AI, machine learning technologies have opened up vast opportunities. A proper content analysis can help in efficient search, recommendation, accessibility, translation and so on. In this project, we propose to develop and deploy automatic speech recognition (ASR) technologies for Prasar Bharati's multimedia content.
 
-One of the major challenge here is obtaining the training data by deploying a LCS co-located with CAAQMS. There are variations in the performance of LCS devices due to their own characteristics. We designed transfer learning based adaptation of calibration models to quickly calibrate the LCS devices.
-
-The proposed models help in reducing the collocation time of PM2.5 sensors while maintaining a high calibration performance.
+This project involves implementing an automatic speech recognition (ASR) system for certain languages. It will convert speech audio into a textual form. Specifically, it will be a conversational large vocabulary continuous speech recognition (LVCSR) system in its final form.
 
 ## Publications
-- Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, “Domain adaptation based deep calibration of low-cost PM2.5 sensors”, IEEE Sensors Journal, 2021.
-- Kalpit Yadav, Vipul Arora, Sonu Kumar Jha, Mohit Kumar, and Sachchida Nand Tripathi. Few-shot calibration of low-cost air pollution (pm2.5) sensors using meta-learning. arXiv preprint arXiv:2108.00640, 2021.
+- Bansal, Vansh, Nagarathna Ravi, Thishyam Raj, and Vipul Arora, "Parturition Hindi Speech Dataset for Automatic Speech Recognition", In 2022 National Conference on Communications (NCC), 2023.
