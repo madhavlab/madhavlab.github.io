@@ -1,25 +1,22 @@
 ---
 layout: post
-title: Voice Search
-permalink: /projects/2022_meity_voice_search/
+title: Speech Technologies in Indian Languages
+permalink: /projects/voice_search/
 ---
-
 ## Overview
 
-  - Project funded by [MeitY]().
-  - Project duration- March 2022 to ongoing
+  - Project funded by [MIETY]()
+  - Project duration- Mar 2022 to Mar 2025
 
 ## Description
-
+<!---
 <img class="img-cover mb-3" src="/assets/images/projects/2021_sensors_graph_abs.png" width="800" height="340">
 <br />
-
-Measuring Air Quality in urban areas is necessary for public health. CAAQMS setups provide high precision measurements but are very costly. To make dense networks of air quality sensors, we need low cost sensors. Such sensors do exist but have low fidelity. We are developing machine learning based methods to calibrate the measurements of low cost sensors (LCS) to have high fidelity.
-
-One of the major challenge here is obtaining the training data by deploying a LCS co-located with CAAQMS. There are variations in the performance of LCS devices due to their own characteristics. We designed transfer learning based adaptation of calibration models to quickly calibrate the LCS devices.
-
-The proposed models help in reducing the collocation time of PM2.5 sensors while maintaining a high calibration performance.
+--->
+The goal of this project is to develop a system for spoken term detection STD), i.e., to search a spoken query term in an audio database.The performance of the STD system depends critically on the representation of the speech signal. The acoustic waveforms, obtained by measuring sound pressure levels, of a word uttered by two different speakers look completely different and yet carry the same linguistic information. A good feature representation for STD should be speech-specific, and at the same time, it should be robust to the speaker and channel variability.
+We will be developing two kinds of STD systems:
+- Language dependent (works for a specific language)
+- Language agnostic (works for any language)
 
 ## Publications
-- Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, “Domain adaptation based deep calibration of low-cost PM2.5 sensors”, IEEE Sensors Journal, 2021.
-- Kalpit Yadav, Vipul Arora, Sonu Kumar Jha, Mohit Kumar, and Sachchida Nand Tripathi. Few-shot calibration of low-cost air pollution (pm2.5) sensors using meta-learning. arXiv preprint arXiv:2108.00640, 2021.
+

@@ -7,7 +7,7 @@ permalink: /projects/2021_prasar_bharti_asr/
 ## Overview
 
   - Project funded by [Prasar Bharati](https://prasarbharati.gov.in/).
-  - Project duration- July 2021 to ongoing
+  - Project duration- Jul 2021 to Jul 2024
 
 ## Description
 

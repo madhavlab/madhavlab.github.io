@@ -7,7 +7,7 @@ permalink: /projects/2021_prasar_bharti_content_retrieval/
 ## Overview
 
   - Project funded by [Prasar Bharati]().
-  - Project duration- July 2021 to ongoing
+  - Project duration- Jul 2021 to Jul 2024
 
 ## Description
 
