@@ -33,9 +33,9 @@ permalink: /projects/
 |[Archival Content Retrieval through Audio and Text Query](/projects/2021_prasar_bharti_content_retrieval)|2021 - 2024|
 |[Automatic Speech Recognition for Speech Subtitling (Making Broadcast Content in various Indian Languages Accessible)](/projects/2021_prasar_bharti_asr)|2021 - 2024|
 |[AI Based Ambient Acoustic Analysis System](/projects/2021_samsung_aed)|2021 - 2022|
-|[AI-based Smart Assistant for Child Deliveries in Low Resource Areas](/projects/googleai_social_good)|2021 - 2022|
-|[Machine Learning for Lattice Quantum Chromodynamics](/projects/sparc_quantum_chromodynamics)|2019 - 2022|
-|[Machine learning for Physics with focus on Quantum Chromodynamics](/projects/iitk_quantum_chromodynamics)|2019 - 2022|
+|[AI-based Smart Assistant for Child Deliveries in Low Resource Areas](/projects/2021_googleai_social_good)|2021 - 2022|
+|[Machine Learning for Lattice Quantum Chromodynamics](/projects/2019_sparc_quantum_chromodynamics)|2019 - 2022|
+|[Machine learning for Physics with focus on Quantum Chromodynamics](/projects/2019_iitk_quantum_chromodynamics)|2019 - 2022|
 |[Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra](/projects/mpc_sensors)|2020 - 2021|
-|[Acoustic Scene Analysis with Deep Embeddings](/projects/asem_duo_scene_analysis)|2020 - 2021|
+|[Acoustic Scene Analysis with Deep Embeddings](/projects/2020_asem_duo_scene_analysis)|2020 - 2021|
 |[Smart music tutor for Indian classical music (vocal and instrumental)](https://vipular.github.io/narottam.github.io)|2019 - 2021|
