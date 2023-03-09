@@ -38,4 +38,4 @@ permalink: /projects/
 |[Machine learning for Physics with focus on Quantum Chromodynamics](/projects/iitk_quantum_chromodynamics)|2019 - 2022|
 |[Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra](/projects/mpc_sensors)|2020 - 2021|
 |[Acoustic Scene Analysis with Deep Embeddings](/projects/asem_duo_scene_analysis)|2020 - 2021|
-|[Smart music tutor for Indian classical music (vocal and instrumental)](https://narottam.github.io)|2019 - 2021|
+|[Smart music tutor for Indian classical music (vocal and instrumental)](https://vipular.github.io/narottam.github.io)|2019 - 2021|
