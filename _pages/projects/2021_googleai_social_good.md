@@ -18,4 +18,4 @@ An AI-driven hands-free assistant for nurses in the delivery rooms during childb
 [Codes](https://github.com/madhavlab/2023_NCC_parturitionASR)
 
 ## Publications
-
+- Bansal, Vansh, Nagarathna Ravi, Thishyam Raj, and Vipul Arora, "Parturition Hindi Speech Dataset for Automatic Speech Recognition", In 2022 National Conference on Communications (NCC), 2023. 

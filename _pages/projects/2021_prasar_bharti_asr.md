@@ -19,4 +19,4 @@ Prasar Bharati is India's largest broadcasting agency, broadcasting audio and vi
 This project involves implementing an automatic speech recognition (ASR) system for certain languages. It will convert speech audio into a textual form. Specifically, it will be a conversational large vocabulary continuous speech recognition (LVCSR) system in its final form.
 <!-- 
 ## Publications
-- Bansal, Vansh, Nagarathna Ravi, Thishyam Raj, and Vipul Arora, "Parturition Hindi Speech Dataset for Automatic Speech Recognition", In 2022 National Conference on Communications (NCC), 2023. -->
+ -->

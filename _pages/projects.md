@@ -23,8 +23,9 @@ permalink: /projects/
   <li><h5><a href="/projects/sparc_quantum_chromodynamics" target="_blank">Machine Learning for Lattice Quantum Chromodynamics</a></h5></li>
   <li><h5><a href="/projects/iitk_quantum_chromodynamics" target="_blank">Machine learning for Physics with focus on Quantum Chromodynamics</a></h5></li>
 </ol>
+|[Machine learning for Physics with focus on Quantum Chromodynamics](/projects/2019_iitk_quantum_chromodynamics)|2019 - 2022|
+|[Voice Biomarkers for Digital Health](/projects/buffalo_digital_biomarkers)||
 --->
-<!---|[Voice Biomarkers for Digital Health](/projects/buffalo_digital_biomarkers)||--->
 
 |:----- |-----:|
 |[Studying cognitive similarity of music using deep embeddings and behavioral studies with applications in music search and pedagogy](/projects/2023_csri_dst_music)|Approved recently|
@@ -35,7 +36,6 @@ permalink: /projects/
 |[AI Based Ambient Acoustic Analysis System](/projects/2021_samsung_aed)|2021 - 2022|
 |[AI-based Smart Assistant for Child Deliveries in Low Resource Areas](/projects/2021_googleai_social_good)|2021 - 2022|
 |[Machine Learning for Lattice Quantum Chromodynamics](/projects/2019_sparc_quantum_chromodynamics)|2019 - 2022|
-|[Machine learning for Physics with focus on Quantum Chromodynamics](/projects/2019_iitk_quantum_chromodynamics)|2019 - 2022|
-|[Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra](/projects/mpc_sensors)|2020 - 2021|
 |[Acoustic Scene Analysis with Deep Embeddings](/projects/2020_asem_duo_scene_analysis)|2020 - 2021|
+|[Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra](/projects/2020_mpc_sensors)|2020 - 2021|
 |[Smart music tutor for Indian classical music (vocal and instrumental)](https://vipular.github.io/narottam.github.io)|2019 - 2021|
