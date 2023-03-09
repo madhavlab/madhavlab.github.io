@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech Technologies in Indian Languages
-permalink: /projects/voice_search/
+permalink: /projects/2022_meity_voice_search/
 ---
 ## Overview
 

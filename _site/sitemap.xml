@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/team/</loc>
-<lastmod>2023-03-07T15:59:56+05:30</lastmod>
+<lastmod>2023-03-07T19:47:45+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/vipular</loc>
@@ -188,7 +188,7 @@
 <loc>http://localhost:4000/projects/2021_samsung_aed/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/voice_search/</loc>
+<loc>http://localhost:4000/projects/2022_meity_voice_search/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/projects/2022_serb_lattice_theory/</loc>
