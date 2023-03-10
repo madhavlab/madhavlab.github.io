@@ -16,4 +16,5 @@ permalink: /projects/2022_serb_lattice_theory/
 We propose to develop ML methods for lattice quantum chromodynamics (LQCD), quantum field theory models such as Gross Neveu (GN) model and some simpler models from statistical Physics, such as Ising model and XY model. We will also study the finite temperature GN model. The important challenges for the ML modelling are – how to condition the DL model on the parameters of the model and how to deal with the changing scale in the model. We will be studying the phase transitions and continuum limits in the lattice models.
 
 ## Publications
+- Ankur Singha, Dipankar Chakrabarti, and Vipul Arora, "Generative learning for the problem of critical slowing down in lattice Gross-Neveu model", in SciPost Physics Core, 2022.
 

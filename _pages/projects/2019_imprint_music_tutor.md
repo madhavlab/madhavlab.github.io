@@ -16,4 +16,12 @@ permalink: /projects/2019_imprint_music_tutor/
 --->
 
 ## Publications
-
+<!--
+•Patent:
+  •“SYSTEM AND METHOD FOR MUSIC TRAINING”, filed at Indian Patent Office, appl. no. 202111016234.
+  •“SENSOR SYSTEM TO READ MIDI FROM INDIAN HARMONIUMS”, provisional patent filed at Indian Patent Office, appl. no. 202211034064
+  
+•Papers:
+  •S. Ranjan, and V. Arora, (2020, December). A Bioinformatic Method Of Semi-Global Alignment For Query-By-Humming. In 2020 IEEE 4th Conference on Information & Communication Technology (CICT) (pp. 1-5). IEEE.
+  •A. Sharma, K. Saxena and V. Arora, “Frequency-Anchored Deep Networks for Polyphonic Melody Extraction”, in Proceedings of National Conference on Communications (NCC), 2021.Syncnet, Akshay Raina in ICASSP 2023
+--->
