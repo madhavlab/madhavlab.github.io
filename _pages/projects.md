@@ -38,4 +38,4 @@ permalink: /projects/
 |[Machine Learning for Lattice Quantum Chromodynamics](/projects/2019_sparc_quantum_chromodynamics)|2019 - 2022|
 |[Acoustic Scene Analysis with Deep Embeddings](/projects/2020_asem_duo_scene_analysis)|2020 - 2021|
 |[Technical Assessment of Low-Cost Sensor based PM2.5 and PM10 Monitoring Network in Maharashtra](/projects/2020_mpc_sensors)|2020 - 2021|
-|[Smart music tutor for Indian classical music (vocal and instrumental)](https://vipular.github.io/narottam.github.io)|2019 - 2021|
+|[Smart music tutor for Indian classical music (vocal and instrumental)](/projects/2019_imprint_music_tutor)|2019 - 2021|
