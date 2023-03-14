@@ -17,4 +17,5 @@ We propose to develop ML methods for lattice quantum chromodynamics (LQCD), quan
 
 ## Publications
 - Ankur Singha, Dipankar Chakrabarti, and Vipul Arora, "Generative learning for the problem of critical slowing down in lattice Gross-Neveu model", in SciPost Physics Core, 2022.
+- Ankur Singha, Dipankar Chakrabarti and Vipul Arora, "Conditional Normalizing flow for Monte Carlo sampling in lattice scalar field theory", Physical Review D.
 

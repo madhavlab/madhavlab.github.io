@@ -19,4 +19,5 @@ We will be developing two kinds of STD systems:
 - Language agnostic (works for any language)
 
 ## Publications
+- Adhiraj Banerjee and Vipul Arora, "Wav2Tok: Deep Sequence Tokenizer for Audio Retrieval" in ICLR, 2023.
 
