@@ -3,8 +3,8 @@ layout: member
 category: Research-Associate
 title: 'Akshay Raina'
 image: 'placeholder-m.jpeg'
-date: 2022-08-01
-role: Multilabel Learning, MIR
+date: 2022-05-03
+role: Representation Learning, MIR
 permalink: 'team/akshayr'
 social:
     linkedin: https://www.linkedin.com/in/akshayraina1/
