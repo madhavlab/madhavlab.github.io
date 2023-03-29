@@ -10,7 +10,8 @@ permalink: /outcomes/
 - [MADHAV Lab Tic Database](datasets/mtic/)
 
 ### Softwares
-[Automatic Music Tutor](https://vipular.github.io/narottam.github.io/)
+- [Automatic Music Tutor](https://vipular.github.io/narottam.github.io/)
+- For other softwares and codebases to our projects, please visit our [github](https://github.com/madhavlab) page.
 
 ### Talks
 
