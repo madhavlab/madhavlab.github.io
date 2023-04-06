@@ -3,7 +3,7 @@ layout: member
 category: PhD-Student
 title: Ankur Singha
 date: 2018-08-01
-image: placeholder-m.jpeg
+image: ankurs.jpeg
 role: Generative learning for LFT
 
 permalink: 'team/ankurs'
