@@ -3,7 +3,7 @@ layout: member
 category: Project-Associate
 title: Kajal Heer
 date: 2022-01-07
-image: kajalHeer.png
+image: KajalHeer.png
 role: Music Teacher
 
 permalink: 'team/kajalheer'
