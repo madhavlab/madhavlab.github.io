@@ -3,8 +3,8 @@ layout: member
 category: Project-Associate
 title: Shruti Mishra
 date: 24-03-2023
-image: 
-role: Data Analyst
+image: shrutim.jpeg
+role: Data Annotation
 
 permalink: 'team/shrutim'
 social:
