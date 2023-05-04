@@ -12,4 +12,5 @@ social:
     twitter:
     orcid: 
     google-scholar: 
-    email: 
+    email: shrutim@iitk.ac.in
+---
