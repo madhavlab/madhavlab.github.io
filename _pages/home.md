@@ -17,8 +17,8 @@ Our group’s research interests lie at the intersection of the theory and appli
       - Speech recognition: confidence estimation
   - Generative Machine learning
       - Normalizing flows, adversarial learning, Monte Carlo, application in Physics (lattice QCD and statistical physics)
-  - Time series analysis on sensor data
-      - Domain adaptation, semi-supervised learning
+  - Time series analysis on sensor data 
+      - Sensor calibration: domain adaptation, semi-supervised learning
 
 ### News
 
