@@ -3,7 +3,7 @@ layout: member
 category: PhD-Student
 title: Sumit Kumar
 date: 2019-01-01
-image: placeholder-m.jpeg
+image: krsumit.jpeg
 role: Sound Event Detection
 
 permalink: 'team/krsumit'

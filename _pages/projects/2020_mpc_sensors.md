@@ -23,3 +23,4 @@ The proposed models help in reducing the collocation time of PM2.5 sensors while
 ## Publications
 - Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, “Domain adaptation based deep calibration of low-cost PM2.5 sensors”, IEEE Sensors Journal, 2021.
 - Kalpit Yadav, Vipul Arora, Sonu Kumar Jha, Mohit Kumar, and Sachchida Nand Tripathi. Few-shot calibration of low-cost air pollution (pm2.5) sensors using meta-learning. arXiv preprint arXiv:2108.00640, 2021.
+- Swapnil Dey, Vipul Arora, and Sachchida Nand Tripathi, "Leveraging unsupervised data and domain adaptation for deep regression in low-cost sensor calibration", IEEE Trans. Neural Networks and Learning Systems.

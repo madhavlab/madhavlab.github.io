@@ -3,19 +3,20 @@ layout: member
 category: PhD-Student
 title: Parampreet Singh
 date: 2021-08-01
-image: params21.jpeg
+image: params21.JPG
 role: MIR, Explainable AI
 
 permalink: 'team/params21'
 social:
     linkedin: https://www.linkedin.com/in/parampreet-singh-b2765721b/
+    website: https://home.iitk.ac.in/~params21/
     twitter:
     orcid: 
     google-scholar: 
     email: params21@iitk.ac.in
 
 ---
-
+Parampreet Singh is a passionate PhD student in the Electrical Department (SPCOM) at IIT Kanpur, working on "Explainable AI for music analysis". With a strong academic background in AI/ML, Signal Processing and knowledge of “Gurmat Sangeet”, he is exploring the intersection of technology and creativity. He is also actively involved in extracurricular activities on campus. Parampreet is committed to making a meaningful contribution to the field and is a valuable asset to the research community.
 
 
 <!-- ---

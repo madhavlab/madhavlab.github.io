@@ -7,19 +7,19 @@ permalink: /projects/2021_prasar_bharti_content_retrieval/
 ## Overview
 
   - Project funded by [Prasar Bharati]().
-  - Project duration- July 2021 to ongoing
+  - Project duration- Jul 2021 to Jul 2024
 
 ## Description
 
-<img class="img-cover mb-3" src="/assets/images/projects/2021_sensors_graph_abs.png" width="800" height="340">
+<img class="img-cover mb-3" src="https://raw.githubusercontent.com/vipular/vipular.github.io/gh-pages/assets/img/aed_image.png" width="680" height="310">
 <br />
 
-Measuring Air Quality in urban areas is necessary for public health. CAAQMS setups provide high precision measurements but are very costly. To make dense networks of air quality sensors, we need low cost sensors. Such sensors do exist but have low fidelity. We are developing machine learning based methods to calibrate the measurements of low cost sensors (LCS) to have high fidelity.
+In this age of digitization and AI, machine learning technologies have opened up vast opportunities. A proper content analysis can help in efficient search, recommendation, accessibility, translation and so on. In this project, we propose to develop and deploy audio-based content retrieval technologies for Prasar Bharati's multimedia content. 
 
-One of the major challenge here is obtaining the training data by deploying a LCS co-located with CAAQMS. There are variations in the performance of LCS devices due to their own characteristics. We designed transfer learning based adaptation of calibration models to quickly calibrate the LCS devices.
-
-The proposed models help in reducing the collocation time of PM2.5 sensors while maintaining a high calibration performance.
+The overarching goal of this project is audio-based content retrieval. We will develop two kinds of retrieval methods, viz., extracting text labels from audio (audio tagging) and direct audio matching (audio fingerprinting).
 
 ## Publications
-- Sonu Kumar Jha, Mohit Kumar, Vipul Arora, Sachchida Nand Tripathi, Vidyanand Motiram Motghare, and A. A. Shingare, “Domain adaptation based deep calibration of low-cost PM2.5 sensors”, IEEE Sensors Journal, 2021.
-- Kalpit Yadav, Vipul Arora, Sonu Kumar Jha, Mohit Kumar, and Sachchida Nand Tripathi. Few-shot calibration of low-cost air pollution (pm2.5) sensors using meta-learning. arXiv preprint arXiv:2108.00640, 2021.
+- Anup Singh, Kris Demuynck, and Vipul Arora, "Simultaneously Learning Robust Audio Embeddings and balanced Hash codes for Query-by-Example", in ICASSP, 2023.
+- Sumit Kumar, B. Anshuman, Linus Ruettimann, Richard H.R. Hahnloser and Vipul Arora, "Balanced Deep CCA for Bird Vocalization Detection", IN ICASSP, 2023.
+- Adhiraj Banerjee and Vipul Arora, "wav2tok: Deep Sequence Tokenizer for Audio Retrieval, In ICLR, 2023.
+- Anup Singh, Kris Demuynck, and Vipul Arora, "Attention-Based Audio Embeddings for Query-by-Example", In ISMIR, 2022.

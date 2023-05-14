@@ -2,10 +2,10 @@
 layout: member
 category: Masters-Students
 title: 'Abhishek Saini'
-image: placeholder-m.jpeg
+image: abhi20.jpeg
 date: 2020-08-01
 role: ML
-permalink: 'team/abhisheks'
+permalink: 'team/abhi20'
 social:
     linkedin: 
     twitter: 
@@ -14,6 +14,6 @@ social:
     website: 
     orcid: 
     research-gate:
-    email: abhisheks@iitk.ac.in
+    email: abhi20@iitk.ac.in
 
 ---

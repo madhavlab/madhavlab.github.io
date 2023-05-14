@@ -4,7 +4,7 @@ category: PhD-Student
 title: 'Kavya Ranjan Saxena'
 image: 'kavyars.jpeg'
 date: 2018-12-31
-role: Melody extraction from polyphonic audios
+role: Melody extraction
 permalink: 'team/kavyars'
 social:
     twitter: https://twitter.com/kavyasaxena14

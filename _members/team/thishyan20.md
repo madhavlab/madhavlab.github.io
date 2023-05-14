@@ -2,7 +2,7 @@
 layout: member
 category: Masters-Students
 title: 'Thishyan Raj T'
-image: 'placeholder-m.jpeg'
+image: 'thishyan20.jpeg'
 date: 2020-12-01
 role: ASR for low resource languages
 permalink: 'team/thishyan20'

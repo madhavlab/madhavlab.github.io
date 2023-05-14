@@ -2708,7 +2708,7 @@ a.text-dark:hover, a.text-dark:focus { color: #121416 !important; }
   .table-dark { color: inherit; }
   .table-dark th, .table-dark td, .table-dark thead th, .table-dark tbody + tbody { border-color: #dee2e6; }
   .table .thead-dark th { color: inherit; border-color: #dee2e6; } }
-body { max-width: 800px; margin: 0 auto; }
+body { max-width: 1000px; margin: 0 auto; }
 
 p { text-align: justify; }
 
@@ -2716,7 +2716,7 @@ p { text-align: justify; }
 
 .site-header { border-bottom: 2px solid #f8f9fa; }
 
-.img-cover { max-height: 250px; width: 100%; object-fit: cover; border-radius: 8px; }
+.img-cover { max-height: 310px; width: 100%; object-fit: cover; border-radius: 8px; }
 
 /*!
  * Font Awesome Free 5.12.1 by @fontawesome - https://fontawesome.com
@@ -5629,3 +5629,7 @@ readers do not read off random characters that represent icons */
  */
 @font-face { font-family: 'Font Awesome 5 Brands'; font-style: normal; font-weight: 400; font-display: auto; src: url("webfonts/fa-brands-400.eot"); src: url("webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("webfonts/fa-brands-400.woff2") format("woff2"), url("webfonts/fa-brands-400.woff") format("woff"), url("webfonts/fa-brands-400.ttf") format("truetype"), url("webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
 .fab { font-family: 'Font Awesome 5 Brands'; font-weight: 400; }
+
+table { width: 100%; }
+
+td { border-bottom: 1px solid #ddd; vertical-align: top; padding-left: 2%; }
