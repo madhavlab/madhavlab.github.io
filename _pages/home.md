@@ -28,6 +28,7 @@ Our group’s research interests lie at the intersection of the theory and appli
     <p>
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
+            <li><b>May 2023</b>: One paper on acoustic word embeddings accepted at the INTERSPEECH' 23. Congratulations Adhiraj!</li>
             <li><b>Feb 2023</b>: Three papers accepted at the ICASSP' 23. Congratulations Sumit, Anup and Akshay!</li>
             <li><b>Jan 2023</b>: One <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.014512" target="_blank">paper</a> on normalizing flows for lattice field theory accepted at the Physical Review D journal. Congratulations Ankur!</li>
             <li><b>Jan 2023</b>: One <a href="https://openreview.net/forum?id=v8Mi8KU6056" target="_blank">paper</a> on audio representation learning accepted at the ICLR' 23. Congratulations Adhiraj!</li>
