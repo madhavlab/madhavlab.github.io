@@ -12,7 +12,7 @@ permalink: /resources/
 |[**International Joint Conferences on Artificial Intelligence**](https://www.ijcai.org/) (IJCAI) |January|
 |[**International Conference on Machine Learning**](https://icml.cc/) (ICML) |January|
 |[**European Signal Processing Conference**](https://eusipco2024.org/) (EUSIPCO) |March|
-|[**INTERSPEECH***](https://www.interspeech2024.org/) (INTERSPEECH) |March|
+|[**INTERSPEECH**](https://www.interspeech2024.org/) (INTERSPEECH) |March|
 |[**IEEE Workshop on Applications of Signal Processing to Audio and Acoustics**](https://waspaa.com/) (WASPAA) |April|
 |[**International Society for Music Information Retrieval**](https://ismir2024.ismir.net/) (ISMIR) |April|
 |[**IEEE Workshop on Applications of Signal Processing to Audio and Acoustics**](https://2024.ieeemlsp.org/) (MLSP) |May|
