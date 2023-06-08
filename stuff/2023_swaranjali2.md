@@ -1,5 +1,5 @@
 ---
-title: Music Course
+title: Music Course "Swaranjali-2"
 layout: page
 excerpt: Swaranjali-2
 permalink: /swaranjali2/

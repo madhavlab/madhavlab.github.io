@@ -22,7 +22,7 @@ Our group’s research interests lie at the intersection of the theory and appli
 
 ### Activities
 
-  - Summer Music Course: Swaranjali-2
+  - Summer Music Course: Swaranjali-2. [Details here](/swaranjali2/)
 
 ### News
 
