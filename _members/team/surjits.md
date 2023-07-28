@@ -4,7 +4,7 @@ category: Project-Associate
 title: Surjit Singh
 date: 2022-08-01
 image: surjits.jpeg
-role: Data Annotation
+role: Data Analyst
 
 permalink: 'team/surjits'
 social:

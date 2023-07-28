@@ -1,17 +1,17 @@
 ---
 layout: member
 category: Project-Associate
-title: Ankita Bhattacharya
-date: 2022-01-02
-image: ankitab.jpeg
+title: Sachidanand Prajapati
+date: 2023-04-14
+image: placeholder-m.jpeg
 role: Data Analyst
 
-permalink: 'team/ankitab'
+permalink: 'team/sachidanandp'
 social:
     linkedin: 
     twitter:
     orcid: 
     google-scholar: 
-    email: ankitab@iitk.ac.in
+    email: sbprajapati@iitk.ac.in
 
 ---
