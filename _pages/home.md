@@ -20,9 +20,9 @@ Our group’s research interests lie at the intersection of the theory and appli
   - Time series analysis on sensor data 
       - Sensor calibration: domain adaptation, semi-supervised learning
 
-### Activities
+### Latest Activities
 
-  - Summer Music Course: Swaranjali-2. [Details here](/swaranjali2/)
+  - [UGP positions available for Fall 2023 (Jul-Dec)](/../stuff/2023_UGPs.md)
 
 ### News
 
@@ -32,6 +32,7 @@ Our group’s research interests lie at the intersection of the theory and appli
     <p>
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
+            <li><b>July 2023</b>: A new research project started with Monotype LLC. Positions open for students.</li>
             <li><b>May 2023</b>: One paper on acoustic word embeddings accepted at the INTERSPEECH' 23. Congratulations Adhiraj!</li>
             <li><b>Feb 2023</b>: Three papers accepted at the ICASSP' 23. Congratulations Sumit, Anup and Akshay!</li>
             <li><b>Jan 2023</b>: One <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.014512" target="_blank">paper</a> on normalizing flows for lattice field theory accepted at the Physical Review D journal. Congratulations Ankur!</li>
