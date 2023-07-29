@@ -4,7 +4,7 @@ category: Project-Associate
 title: Shiv Narayan Pandey
 date: 2019-01-01
 image: shivnp.jpg
-role: Data Handling
+role: Data Analyst, Office Administration and Website Management
 
 permalink: 'team/shivnp'
 social:
