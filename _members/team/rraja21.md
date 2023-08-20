@@ -3,6 +3,7 @@ layout: member
 category: Masters-Students
 title: 'Raja Raviteja Chaganti'
 image: 'rraja21.jpeg'
+date: 2021-08-21
 role: ASR in Indian languages (mainly Hindi)
 permalink: 'team/rraja21'
 social:

@@ -3,7 +3,7 @@ layout: member
 category: Masters-Students
 title: 'Suraj Jaiswal'
 image: 'jsuraj.jpeg'
-date: 2023-07-30
+date: 2023-08-05
 role: Music Information Retrieval
 permalink: 'team/jsuraj'
 social:
