@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/team/</loc>
-<lastmod>2023-07-28T11:49:52+05:30</lastmod>
+<lastmod>2023-08-21T01:36:49+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/rraja21</loc>
-<lastmod>2023-07-28T11:49:52+05:30</lastmod>
+<lastmod>2023-08-21T01:36:49+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/vipular</loc>
@@ -257,10 +257,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/publis/attachments/2021/Comparison_of_discrete_transforms_for_DNN_based_speech_enhancement.pdf</loc>
-<lastmod>2023-07-28T11:11:29+05:30</lastmod>
+<lastmod>2023-08-20T12:08:43+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/stuff/2023_swaranjali2_poster.pdf</loc>
-<lastmod>2023-07-28T11:11:29+05:30</lastmod>
+<lastmod>2023-08-20T12:08:43+05:30</lastmod>
 </url>
 </urlset>
