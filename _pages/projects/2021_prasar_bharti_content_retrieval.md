@@ -8,7 +8,7 @@ permalink: /projects/2021_prasar_bharti_content_retrieval/
 
   - Project funded by [Prasar Bharati]().
   - Project duration- Dec 2021 to Dec 2024
-  - Deployment: https://pb.madhavlab.com 
+  - Deployment: [https://pb.madhavlab.com](https://pb.madhavlab.com)
 
 ## Description
 
