@@ -5,6 +5,7 @@ title: 'Gaurav Tank'
 image: 'gauravt20.jpeg'
 date: 2020-08-01
 hereas: 'Here as: Master Student'
+role: Sound Event Detection
 current: 
 permalink: 'team/gauravt20'
 social:
