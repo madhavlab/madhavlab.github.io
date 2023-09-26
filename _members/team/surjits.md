@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category: alumni
 title: Surjit Singh
 date: 2022-08-01
 image: surjits.jpeg

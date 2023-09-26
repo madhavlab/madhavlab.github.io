@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category: alumni
 title: Haritima Sharma
 date: 2022-09-01
 image: haritimas.jpeg

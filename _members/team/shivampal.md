@@ -1,16 +1,19 @@
 ---
 layout: member
-category: alumni
+category: Project-Associate
 title: Shivam Pal
-date: 2020-05-01
-image: placeholder-m.jpeg
-hereas: 'Here as: Masters Student'
-current: 'Current: Own Startup'
-permalink: 'team/shivampal'
+date: 2023-07-03
+image: shivam.png
+role: 
 social:
     twitter: 
     linkedin: 
     orcid:
     website: 
-    email: 
+    email: shivampa@iitk.ac.in
 ---
+<!---
+hereas: 'Here as: Masters Student'
+current: 'Current: Own Startup'
+permalink: 'team/shivampal'
+--->
