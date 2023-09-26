@@ -4,9 +4,13 @@ layout: homelay
 permalink: /
 ---
 
-The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in)
+The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in) set up and led by [Prof. Vipul Arora](https://vipular.github.io).
 
-<span style="color:#cc0000">For open positions, see</span> [Jobs](jobs).
+<span>For open positions, see</span> [Jobs](jobs).
+<span> UGP positions available for Fall 2023 (Jul-Dec), see </span>[UGPs](/../stuff/2023_UGPs.md).
+
+<span style="color:#cc0000">We are organizing the 16th Winter School on Speech and Audio Processing 2023 at IIT Kanpur. Register</span> <a href="https://wissap23.madhavlab.com" target="_blank">now</a>.
+
 
 ### About
 Our group’s research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in Audio and Physics. With a strong interest in the mathematical fundamentals and a passion for real-world application, our group aims on being at the forefront of the field, by carrying out impactful research in the following areas:
@@ -20,9 +24,6 @@ Our group’s research interests lie at the intersection of the theory and appli
   - Time series analysis on sensor data 
       - Sensor calibration: domain adaptation, semi-supervised learning
 
-### Activities
-
-  - Summer Music Course: Swaranjali-2. [Details here](/swaranjali2/)
 
 ### News
 
@@ -32,6 +33,8 @@ Our group’s research interests lie at the intersection of the theory and appli
     <p>
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
+            <li><b>August 2023</b>: We are organizing the 16th Winter School on Speech and Audio Processing 2023 at IIT Kanpur. Register <a href="https://wissap23.madhavlab.com" target="_blank">now</a></li>
+            <li><b>July 2023</b>: A new research project started with Monotype LLC. Positions open for students.</li>
             <li><b>May 2023</b>: One paper on acoustic word embeddings accepted at the INTERSPEECH' 23. Congratulations Adhiraj!</li>
             <li><b>Feb 2023</b>: Three papers accepted at the ICASSP' 23. Congratulations Sumit, Anup and Akshay!</li>
             <li><b>Jan 2023</b>: One <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.014512" target="_blank">paper</a> on normalizing flows for lattice field theory accepted at the Physical Review D journal. Congratulations Ankur!</li>
