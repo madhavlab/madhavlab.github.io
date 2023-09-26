@@ -4,7 +4,7 @@ category: alumni
 title: Haritima Sharma
 date: 2022-09-01
 image: haritimas.jpeg
-role: Data Annotation
+hereas: 'Here as: Data Analyst'
 
 permalink: 'team/haritimas'
 social:

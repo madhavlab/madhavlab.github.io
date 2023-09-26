@@ -1,10 +1,11 @@
 ---
 layout: member
-category: Masters-Students
+category: alumni
 title: 'Gaurav Tank'
 image: 'gauravt20.jpeg'
 date: 2020-08-01
-role: Sound Event Detection
+hereas: 'Here as: Master Student'
+current: 
 permalink: 'team/gauravt20'
 social:
     linkedin: https://www.linkedin.com/in/tankgauravgt/
