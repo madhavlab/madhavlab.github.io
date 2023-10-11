@@ -124,6 +124,9 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 				<li>
 					<a class="nav-link" href="/resources">Resources</a>
 				</li>
+				<li>
+					<a class="nav-link" href="/gallery">Gallery</a>
+				</li>
 			</ul>
 		</div>
 
@@ -133,54 +136,55 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 </div>
 
       <div class="mt-3">
-        <nav aria-label="breadcrumb">
-    <ol class="breadcrumb bg-white px-0">
-        <li class="breadcrumb-item"><a href="/team">Team</a></li>
-        <li class="breadcrumb-item text-capitalize"><a href="/team#alumni">alumni</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Shivam Pal</li>
-    </ol>
-</nav>
+        <div>
+	<h1 class="mb-5">Gallery</h1>
+	<style>
+    .carousel-container {
+        position: relative;
+        width: 300px; /* Adjust the carousel width as needed */
+        overflow: hidden;
+    }
 
-<div class="text-center mt-5">
-    <!-- Avatar -->
-    <img src="/assets/images/team/placeholder-m.jpeg"
-         style="max-width: 250px; border-radius: 50%;" />
+    .carousel-image {
+        display: none;
+        width: 100%;
+        height: auto;
+        position: absolute;
+        transition: opacity 0.5s;
+    }
 
-    <!-- Name & Role -->
-    <h1>Shivam Pal</h1>
-    <h3></h3>
+    .carousel-image.active {
+        display: block;
+    }
 
-    <!-- Social -->
-    <ul class="list-inline list-unstyled">
-    <!-- Twitter -->
+    .carousel-button {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        padding: 5px 10px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .prev {
+        left: 0;
+    }
+
+    .next {
+        right: 0;
+    }
+</style>
+
+<div class="carousel-container">
     
-    <!-- Linkedin -->
     
-    <!-- Github -->
+    <img src="" alt="Image 1" class="carousel-image active">
     
-    <!-- Personal Website -->
-    
-    <!-- Google Scholar -->
-    
-    <!-- Orcid -->
-    
-    <!-- Research Gate -->
-    
-    <!-- Wikipedia -->
-    
-    <!-- Email -->
-    
-    
-</ul>
+    <button class="carousel-button prev" data-direction="-1">Previous</button>
+    <button class="carousel-button next" data-direction="1">Next</button>
 </div>
-
-<!-- Education -->
-
-
-<!-- Bio -->
-<div>
-    <h3>Bio</h3>
-    
 
 </div>
 

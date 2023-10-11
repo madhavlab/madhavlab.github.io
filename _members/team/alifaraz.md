@@ -1,10 +1,12 @@
 ---
 layout: member
-category: Masters-Students
+category: alumni
 title: 'Ali Faraz'
 image: alifaraz.jpeg
 date: 2020-07-01
+hereas: 'Here as: Master Student'
 role: ML for Physics
+current: 
 permalink: 'team/alifaraz'
 social:
     linkedin: 

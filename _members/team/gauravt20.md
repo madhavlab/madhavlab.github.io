@@ -6,7 +6,7 @@ image: 'gauravt20.jpeg'
 date: 2020-08-01
 hereas: 'Here as: Master Student'
 role: Sound Event Detection
-current: 
+current: 'Current: Air India'
 permalink: 'team/gauravt20'
 social:
     linkedin: https://www.linkedin.com/in/tankgauravgt/

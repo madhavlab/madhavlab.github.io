@@ -1,10 +1,12 @@
 ---
 layout: member
-category: PhD-Student
+category: alumni
 title: Ankur Singha
 date: 2018-08-01
 image: ankurs.jpeg
+hereas: 'Here as: PhD-Student'
 role: Generative learning for LFT
+current: 
 
 permalink: 'team/ankurs'
 social:
