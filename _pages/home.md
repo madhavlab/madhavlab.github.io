@@ -4,15 +4,17 @@ layout: homelay
 permalink: /
 ---
 
-The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in) set up and led by [Prof. Vipul Arora](https://vipular.github.io).
 
-<span>For open positions, see</span> [Jobs](jobs).
-<span> UGP positions available for Fall 2023 (Jul-Dec), see </span>[UGPs](/../stuff/2023_UGPs.md).
+<span>For open positions, see</span> [Jobs](jobs).<br>
+- We are looking for interested PhD and master's students to join our group.
+- [UGPs](/../stuff/2023_UGPs.md).
 
 <span style="color:#cc0000">We are organizing the 16th Winter School on Speech and Audio Processing 2023 at IIT Kanpur. Register</span> <a href="https://wissap23.madhavlab.com" target="_blank">now</a>.
 
 
 ### About
+The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in) set up and led by [Prof. Vipul Arora](https://vipular.github.io).
+
 Our group’s research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in Audio and Physics. With a strong interest in the mathematical fundamentals and a passion for real-world application, our group aims on being at the forefront of the field, by carrying out impactful research in the following areas:
 
   - Machine learning for audio signal processing
