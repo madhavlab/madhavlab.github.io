@@ -1,6 +1,6 @@
 ---
 layout: member
-category: alumni
+category:
 title: Surjit Singh
 date: 2022-08-01
 image: surjits.jpeg

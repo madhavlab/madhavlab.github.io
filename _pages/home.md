@@ -35,8 +35,10 @@ Our group’s research interests lie at the intersection of the theory and appli
     <p>
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
+            <li><b>Dec 2023</b>: One paper on acoustic event detection using ontology-informed constraints accepted at the ICASSP 2024. Congratulations Akshay and Sayeedul!</li>
             <li><b>August 2023</b>: We are organizing the 16th Winter School on Speech and Audio Processing 2023 at IIT Kanpur. Register <a href="https://wissap23.madhavlab.com" target="_blank">now</a></li>
             <li><b>July 2023</b>: A new research project started with Monotype LLC. Positions open for students.</li>
+            <li><b>June 2023</b>: Patent Granted on A Sensor System to read MIDI from Indian Harmoniums. Congratulations Suraj!</li>
             <li><b>May 2023</b>: One paper on acoustic word embeddings accepted at the INTERSPEECH' 23. Congratulations Adhiraj!</li>
             <li><b>Feb 2023</b>: Three papers accepted at the ICASSP' 23. Congratulations Sumit, Anup and Akshay!</li>
             <li><b>Jan 2023</b>: One <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.014512" target="_blank">paper</a> on normalizing flows for lattice field theory accepted at the Physical Review D journal. Congratulations Ankur!</li>

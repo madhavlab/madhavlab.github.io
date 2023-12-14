@@ -1,6 +1,6 @@
 ---
 layout: member
-category: alumni
+category: 
 title: Haritima Sharma
 date: 2022-09-01
 image: haritimas.jpeg
