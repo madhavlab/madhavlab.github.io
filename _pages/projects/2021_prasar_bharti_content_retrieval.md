@@ -20,7 +20,8 @@ In this age of digitization and AI, machine learning technologies have opened up
 The overarching goal of this project is audio-based content retrieval. We will develop two kinds of retrieval methods, viz., extracting text labels from audio (audio tagging) and direct audio matching (audio fingerprinting).
 
 ## Publications
-- Anup Singh, Kris Demuynck, and Vipul Arora, "Simultaneously Learning Robust Audio Embeddings and balanced Hash codes for Query-by-Example", in ICASSP, 2023.
-- Sumit Kumar, B. Anshuman, Linus Ruettimann, Richard H.R. Hahnloser and Vipul Arora, "Balanced Deep CCA for Bird Vocalization Detection", IN ICASSP, 2023.
+- Akshay Raina, Sayeedul Islam Sheikh, and Vipul Arora, "Learning Ontology Informed Representations with Constraints for Acoustic Event Detection", in IEEE ICASSP, 2024.
+- Anup Singh, Kris Demuynck, and Vipul Arora, "Simultaneously Learning Robust Audio Embeddings and balanced Hash codes for Query-by-Example", in IEEE ICASSP, 2023.
+- Sumit Kumar, B. Anshuman, Linus Ruettimann, Richard H.R. Hahnloser and Vipul Arora, "Balanced Deep CCA for Bird Vocalization Detection", IN IEEE ICASSP, 2023.
 - Adhiraj Banerjee and Vipul Arora, "wav2tok: Deep Sequence Tokenizer for Audio Retrieval, In ICLR, 2023.
 - Anup Singh, Kris Demuynck, and Vipul Arora, "Attention-Based Audio Embeddings for Query-by-Example", In ISMIR, 2022.
