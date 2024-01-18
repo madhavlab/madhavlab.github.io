@@ -9,7 +9,7 @@ permalink: /
 - We are looking for interested PhD and master's students to join our group.
 - [UGPs](/../stuff/2023_UGPs.md).
 
-<span style="color:#cc0000">We are organizing the 16th Winter School on Speech and Audio Processing 2023 at IIT Kanpur. Register</span> <a href="https://wissap23.madhavlab.com" target="_blank">now</a>.
+<!-- <span style="color:#cc0000">We are looking for Research Interns this summer. More details </span> <a href="stuff/2024_UGPs" target="_blank">here</a>. -->
 
 
 ### About
