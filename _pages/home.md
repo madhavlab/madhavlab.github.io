@@ -8,7 +8,7 @@ permalink: /
 <span>For open positions, see</span> [Jobs](jobs).<br>
 - We are looking for interested PhD and master's students to join our group.
 
-<span style="color:#cc0000">We are looking for Research Interns this summer. More details </span> <a href="stuff/2024_UGPs" target="_blank">here</a>.
+<span style="color:#cc0000">We are looking for Research Interns this summer. More details </span> <a href="stuff/2024_sri" target="_blank">here</a>.
 
 
 ### About
