@@ -6,10 +6,6 @@ permalink: /stuff/sri_assignment/
 ---
 
 
-
-# Summer Research Internship @ MADHAV Lab
-## Coding Assignment
-
 ### Guidelines:
 - There are 4 tasks in total for different project-openings.
 - You are required to solve and submit at least 1 of these 4 tasks of your choice, before the deadline.
@@ -51,11 +47,15 @@ In this task, you will develop a program that takes the output of a 2-hidden lay
 constructs a symbolic equation representing the network's output. The goal is to understand and interpret the neural network's
 decision-making process through symbolic representation.
 
-1. Train a 2-hidden layer feedforward neural network (as in the figure below) on a dataset of your choice. Save the trained model.
+1. Train a 2-hidden layer feedforward neural network with sparse connections (as in the figure below) on a dataset of your choice. Save the trained model.
 2. Extract the symbolic expression representing the output layer of the neural network. Can use [SymPy](https://www.sympy.org/en/index.html).
 3. Implement a Python program that takes the symbolic expression from the output layer as input. Construct a symbolic equation using the input features as variables.
 4. Allow users to input a set of values for the input features. Use the symbolic equation to compute and display the corresponding predicted output.
 5. Document the code with comments and explanations. Provide instructions on how to run the program and interpret the symbolic equation.
+
+<div align="center">
+<img class="width-score width-max-100px" src="{{ "./stuff/sri.png" | relative_url }}">
+</div>
 
 ### Task 4: Implement paper/s on Generative Modelling
 In this task, you are required to implement either (or both) of the following papers from scratch-
