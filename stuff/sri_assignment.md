@@ -12,7 +12,8 @@ permalink: /stuff/sri_assignment/
 - Each participant can solve and submit as many tasks.
 - The submission deadline is strict and no exceptions will be made for extensions.
 - You can submit a Google Colab/ Jupyter notebook (.ipynb) or a zip of .py files.
-- The deadline to submit is **1:00 PM (IST) 5th February (Monday), 2023**.
+- Ensure that all links in the submitted form are accessible (not private).
+- The deadline to submit is **1:00 PM (IST) 6th February (Tuesday), 2024**.
 - Submission link- [https://forms.office.com/r/QRsi0ju9pY](https://forms.office.com/r/QRsi0ju9pY)
 
 ### Task 1: Prepare a custom pipeline for data preparation and CNN training
@@ -55,7 +56,7 @@ decision-making process through symbolic representation.
 5. Document the code with comments and explanations. Provide instructions on how to run the program and interpret the symbolic equation.
 
 <div align="center">
-<img class="width-score width-50px" src="{{ "./stuff/sri.png" | relative_url }}">
+  <img class="width-score" src="{{ "./stuff/sri.png" | relative_url }}" width="60%">
 </div>
 
 ### Task 4: Implement paper/s on Generative Modelling
