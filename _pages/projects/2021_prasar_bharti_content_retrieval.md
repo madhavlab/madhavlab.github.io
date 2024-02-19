@@ -12,8 +12,8 @@ permalink: /projects/2021_prasar_bharti_content_retrieval/
 
 ## Description
 
-<img class="img-cover mb-3" src="https://raw.githubusercontent.com/vipular/vipular.github.io/gh-pages/assets/img/aed_image.png" width="680" height="310">
-<br />
+<img class="img-cover mb-3" src="https://raw.githubusercontent.com/vipular/vipular.github.io/gh-pages/assets/img/aed_image.png" >
+<br/>
 
 In this age of digitization and AI, machine learning technologies have opened up vast opportunities. A proper content analysis can help in efficient search, recommendation, accessibility, translation and so on. In this project, we propose to develop and deploy audio-based content retrieval technologies for Prasar Bharati's multimedia content. 
 
