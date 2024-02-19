@@ -34,7 +34,7 @@ Our group’s research interests lie at the intersection of the theory and appli
     <p>
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
-            <li><b>Dec 2023</b>: <a href="https://wissap23.madhavlab.com" target="_blank">WiSSAP 2023</a> school (AI for Music) concluded successfully. <a href="https://youtube.com/playlist?list=PLbtAaXHMto-vpyPwGJrbpJ9jSb4sEAJo7&si=g-1-8NY0LVsuLRuP" target="_blank">Videos here.</a> </li>
+            <li><b>Dec 2023</b>: <a href="https://wissap23.madhavlab.com" target="_blank">WiSSAP 2023</a> school (AI for Music) concluded successfully. <a href="https://wissap23.madhavlab.com/#schedule" target="_blank">Videos and slides are here.</a> </li>
             <li><b>Dec 2023</b>: One paper on acoustic event detection using ontology-informed constraints accepted at the <a href="https://2024.ieeeicassp.org" target="_blank"> ICASSP 2024</a>. Congratulations Akshay and Sayeedul!</li>
             <li><b>August 2023</b>: We are organizing the 16th Winter School on Speech and Audio Processing 2023 (AI for Music) at IIT Kanpur. Register <a href="https://wissap23.madhavlab.com" target="_blank">now</a></li>
             <li><b>July 2023</b>: A new research project started with Monotype LLC. Positions open for students.</li>
