@@ -7,7 +7,7 @@ permalink: /projects/2023_csri_dst_music/
 ## Overview
 
   - Project funded by [CSRI]() and [Department of Science and Technology (DST), GoI]().
-  - Project duration- approved recently
+  - Project duration: approved recently
 
 ## Description
 <!---
