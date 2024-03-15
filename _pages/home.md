@@ -6,7 +6,7 @@ permalink: /
 
 
 <span>For open positions, see</span> [Jobs](jobs).<br>
-- We have multiple openings for <span style="color:#cc0000">students interns</span> and <span style="color:#cc0000">short-term research assistants (after BTech)</span> to work with us on audio LLMs and diffusion models. More details <a href="stuff/2024_UGPs" target="_blank">here</a>. 
+- We have multiple openings for <span style="color:#cc0000">students interns</span> and <span style="color:#cc0000">short-term research assistants (after BTech)</span> to work with us on audio LLMs and diffusion models. More details <a href="2024_UGPs/" target="_blank">here</a>. 
 - We have an opening for <span style="color:#cc0000">postdoc</span> on adaptation of regression models over graphs. Candidates with strong background in machine learning are welcome to apply.
 
 ### About
