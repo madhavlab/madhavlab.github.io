@@ -6,25 +6,27 @@ permalink: /
 
 
 <span>For open positions, see</span> [Jobs](jobs).<br>
-- We are looking for interested PhD and master's students to join our group.
-
-<span style="color:#cc0000">We are looking for Research Interns this summer. More details </span> <a href="stuff/2024_sri" target="_blank">here</a>.
-
+- <span style="color:#cc0000"></span> Email vipular@.
+<span style="color:#cc0000">We are looking for interested research students to work with us on audio LLMs and diffusion models. More details </span> <a href="stuff/2024_UGPs" target="_blank">here</a>.
 
 ### About
 The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in) set up and led by [Prof. Vipul Arora](https://vipular.github.io).
 
-Our group’s research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in Audio and Physics. With a strong interest in the mathematical fundamentals and a passion for real-world application, our group aims on being at the forefront of the field, by carrying out impactful research in the following areas:
+Our group’s research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in Audio and Physics. Our group focuses in the following areas:
 
-  - Machine learning for audio signal processing
-      - Music analysis: explainable AI and domain adaptation
-      - Audio retrieval: representation learning
-      - Speech recognition: confidence estimation
+  - Human Machine Learning
+      - Efficient data labeling
+      - Data efficient learning and adaptation
   - Generative Machine learning
-      - Normalizing flows, adversarial learning, Monte Carlo, application in Physics (lattice QCD and statistical physics)
-  - Time series analysis on sensor data 
-      - Sensor calibration: domain adaptation, semi-supervised learning
-
+      - Normalizing flows, adversarial learning, diffusion models
+      - Sampling methods: Monte Carlo, application in Physics (lattice QCD and statistical physics)
+  - Audio signal processing
+      - Audio LLMs: textless speech tokenization and fast search
+      - Music analysis
+      - Speech recognition
+  - Other applications
+      - Image generation
+      - Sensor calibration
 
 ### News
 
@@ -34,6 +36,8 @@ Our group’s research interests lie at the intersection of the theory and appli
     <p>
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
+            <li><b>Mar 2024</b>: Prof. Arora gave a talk on "Human machine learning for Searching Big Audio Data" at NIT Calicut.</li>
+            <li><b>Feb 2024</b>: Prof. Arora gave a keynote talk on "Human-machine learning" at ICMLA conference at Chitkara University.</li>
             <li><b>Dec 2023</b>: <a href="https://wissap23.madhavlab.com" target="_blank">WiSSAP 2023</a> school (AI for Music) concluded successfully. <a href="https://wissap23.madhavlab.com/#schedule" target="_blank">Videos and slides are here.</a> </li>
             <li><b>Dec 2023</b>: One paper on acoustic event detection using ontology-informed constraints accepted at the <a href="https://2024.ieeeicassp.org" target="_blank"> ICASSP 2024</a>. Congratulations Akshay and Sayeedul!</li>
             <li><b>August 2023</b>: We are organizing the 16th Winter School on Speech and Audio Processing 2023 (AI for Music) at IIT Kanpur. Register <a href="https://wissap23.madhavlab.com" target="_blank">now</a></li>
