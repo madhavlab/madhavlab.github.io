@@ -6,8 +6,8 @@ permalink: /
 
 
 <span>For open positions, see</span> [Jobs](jobs).<br>
-- <span style="color:#cc0000"></span> Email vipular@.
-<span style="color:#cc0000">We are looking for interested research students to work with us on audio LLMs and diffusion models. More details </span> <a href="stuff/2024_UGPs" target="_blank">here</a>.
+- We have multiple openings for <span style="color:#cc0000">students interns</span> and <span style="color:#cc0000">short-term research assistants (after BTech)</span> to work with us on audio LLMs and diffusion models. More details <a href="stuff/2024_UGPs" target="_blank">here</a>. 
+- We have an opening for <span style="color:#cc0000">postdoc</span> on adaptation of regression models over graphs. Candidates with strong background in machine learning are welcome to apply.
 
 ### About
 The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in) set up and led by [Prof. Vipul Arora](https://vipular.github.io).
