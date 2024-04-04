@@ -51,7 +51,7 @@ Current positions are always listed on the main [IITK webpage](https://www.iitk.
 </div>
 
 <div class="card">
-  <h2>Research Associate in Generative Machine Learning </h2>
+  <h2>Research Associate in Generative Machine Learning (with Monotype Inc.)</h2>
   <a href="https://forms.office.com/r/x05vGbgkim">Apply Now</a>
 </div>
 
