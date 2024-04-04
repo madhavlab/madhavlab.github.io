@@ -47,3 +47,17 @@ Current positions are always listed on the main [IITK webpage](https://www.iitk.
   <p>Requirements: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   <a href="link_to_your_form">Apply Now</a>
 </div>
+
+<div class="card">
+  <h2>Job Title</h2>
+  <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <p>Requirements: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <a href="link_to_your_form">Apply Now</a>
+</div>
+
+<div class="card">
+  <h2>Job Title</h2>
+  <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <p>Requirements: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <a href="link_to_your_form">Apply Now</a>
+</div>
