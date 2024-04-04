@@ -13,6 +13,10 @@ Current positions are always listed on the main [IITK webpage](https://www.iitk.
 
 
 <style>
+.container {
+  display: flex;
+  justify-content: 5px; /* Adjust as needed */
+}
 .card {
   border: 1px solid #ccc;
   border-radius: 8px;
