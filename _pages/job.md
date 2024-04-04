@@ -44,24 +44,19 @@ Current positions are always listed on the main [IITK webpage](https://www.iitk.
   text-decoration: underline;
 }
 </style>
-
+<div class="container">
 <div class="card">
-  <h2>Job Title</h2>
-  <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  <p>Requirements: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  <a href="link_to_your_form">Apply Now</a>
+  <h2>PostDoc Researcher in Machine Learning</h2>
+  <a href="https://forms.office.com/r/MHJ6YVr97p">Apply Now</a>
 </div>
 
 <div class="card">
-  <h2>Job Title</h2>
-  <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  <p>Requirements: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  <a href="link_to_your_form">Apply Now</a>
+  <h2>Research Associate in Generative Machine Learning </h2>
+  <a href="https://forms.office.com/r/x05vGbgkim">Apply Now</a>
 </div>
 
 <div class="card">
-  <h2>Job Title</h2>
-  <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  <p>Requirements: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  <a href="link_to_your_form">Apply Now</a>
+  <h2>Research Associate in Machine Learning for Audio</h2>
+  <a href="https://forms.office.com/r/nEYqzRBD8W">Apply Now</a>
+</div>
 </div>
