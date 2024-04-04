@@ -10,3 +10,40 @@ Current positions are always listed on the main [IITK webpage](https://www.iitk.
   - Available [UG Projects](/2023_UGPs) for Fall 2023.
 
   <!-- - You can also checkout [SURGE](https://surge.iitk.ac.in/), the annual summer research internship program at IIT Kanpur. You can write your area of interest and proposed project for the duration before submitting your application. -->
+
+
+<style>
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  width: 300px;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
+.card h2 {
+  color: #333;
+}
+
+.card p {
+  color: #666;
+}
+
+.card a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.card a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="card">
+  <h2>Job Title</h2>
+  <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <p>Requirements: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <a href="link_to_your_form">Apply Now</a>
+</div>
