@@ -25,3 +25,7 @@ The overarching goal of this project is audio-based content retrieval. We will d
 - Sumit Kumar, B. Anshuman, Linus Ruettimann, Richard H.R. Hahnloser and Vipul Arora, "Balanced Deep CCA for Bird Vocalization Detection", IN IEEE ICASSP, 2023.
 - Adhiraj Banerjee and Vipul Arora, "wav2tok: Deep Sequence Tokenizer for Audio Retrieval, In ICLR, 2023.
 - Anup Singh, Kris Demuynck, and Vipul Arora, "Attention-Based Audio Embeddings for Query-by-Example", In ISMIR, 2022.
+
+## Codes
+- [Audio Search with noisy snippets or Audio Fingerprinting](https://github.com/madhavlab/audsearch)
+  
