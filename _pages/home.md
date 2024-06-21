@@ -37,8 +37,8 @@ Our group’s research interests lie at the intersection of the theory and appli
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
             <li><b>Jun 2024</b>: Prof. Arora gave an invited talk on "Mode-Collapse in Generative Models" at TU Berlin.</li>
-            <li><b>Jun 2024</b>: <a href="https://doi.org/">Paper</a> accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Nagarathna and Thishyan.</li>
-            <li><b>May 2024</b>: <a href="https://doi.org/10.1109/TNNLS.2024.3409364">Paper</a> accepted in IEEE Trans. Neural Networks and Learning Sys. Congratulations Swapnil.</li>
+            <li><b>Jun 2024</b>: <a href="https://ieeexplore.ieee.org/document/10564143">Paper</a> accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Nagarathna and Thishyan.</li>
+            <li><b>May 2024</b>: <a href="https://ieeexplore.ieee.org/document/10560048">Paper</a> accepted in IEEE Trans. Neural Networks and Learning Sys. Congratulations Swapnil.</li>
             <li><b>May 2024</b>: Prof. Arora is awarded the PK Kelkar Research Fellowship for three years.</li>
             <li><b>May 2024</b>: <a href="https://scipost.org/submissions/2401.15948v2/">Paper</a> accepted in Scipost Physics. Congratulations Vikas.</li>
             <li><b>May 2024</b>: <a href="https://doi.org/10.1109/TASLP.2024.3399614">Paper</a> accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Kavya.</li>
