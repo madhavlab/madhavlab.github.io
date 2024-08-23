@@ -20,6 +20,7 @@ This project involves implementing an automatic speech recognition (ASR) system 
 
 ## Achievements
 - Secured second place in track 2 (Bhojpuri): Participated in MADASR 2023 challenge for ASR for Bengali and Bhojpuri. Our team achieved various positions in different tracks.
+- Paper Published- Nagarathna Ravi, Thishyan Raj T, and Vipul Arora, "TeLeS: Temporal Lexeme Similarity Score to Estimate Confidence in End-to-End ASR", in IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2024.
 
 <!-- 
 ## Publications
