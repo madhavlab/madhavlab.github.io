@@ -20,6 +20,7 @@ In this age of digitization and AI, machine learning technologies have opened up
 The overarching goal of this project is audio-based content retrieval. We will develop two kinds of retrieval methods, viz., extracting text labels from audio (audio tagging) and direct audio matching (audio fingerprinting).
 
 ## Publications
+- Sagar Dutta and Vipul Arora, "AudioNet: Supervised Deep Hashing for Retrieval of Similar Audio Events", in IEEE TASLP, 2024.
 - Kavya Ranjan Saxena, and Vipul Arora, "Interactive singing melody extraction based on active adaptation", in IEEE TASLP, 2024.
 - Akanksha Singh, Vipul Arora, and Yi-Ping Phoebe Chen, "An efficient TF-IDF based Query by Example Spoken Term Detection", in IEEE Conference on Artificial Intelligence (CAI), 2024.
 - Akshay Raina, Sayeedul Islam Sheikh, and Vipul Arora, "Learning Ontology Informed Representations with Constraints for Acoustic Event Detection", in IEEE ICASSP, 2024.
