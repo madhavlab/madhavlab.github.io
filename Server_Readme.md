@@ -26,7 +26,7 @@ A part of the storage is dedicated to the dump repository located at /hdd_storag
 
 2.1 Work at home:  
 
-Our servers can be accessed only on the IITK network. IITK has a VPN service that allows you to connect with the IITK network from anywhere. Detailed instructions on using VPN can be found here. 
+Our servers can be accessed only on the IITK network. IITK has a VPN service that allows you to connect with the IITK network from anywhere. Detailed instructions on using VPN can be found [here](https://www.iitk.ac.in/cc/services/network/how-to-use-ssl-vpn). 
 
 2.2 GPU servers:  
 
