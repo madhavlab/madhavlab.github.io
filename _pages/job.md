@@ -45,17 +45,13 @@ Current positions are always listed here. They may also be posted on MADHAV Lab 
 </style>
 <div class="container">
 <div class="card">
-  <h2>PostDoc Researcher in Machine Learning</h2>
-  <a href="https://forms.office.com/r/MHJ6YVr97p">Apply Now</a>
+  <h2>Research Associate (AI for Environmental Science)</h2>
+  <a href="https://forms.office.com/r/we8AhP7RFs">Apply Now</a>
 </div>
 
 <div class="card">
-  <h2>Research Associate in Generative Machine Learning (with Monotype Inc.)</h2>
-  <a href="https://forms.office.com/r/x05vGbgkim">Apply Now</a>
+  <h2>Research Associate (AI for Audio Representation and Retrieval)</h2>
+  <a href="https://forms.office.com/r/gMd7nPxQQx">Apply Now</a>
 </div>
 
-<div class="card">
-  <h2>Research Associate in Machine Learning for Audio</h2>
-  <a href="https://forms.office.com/r/nEYqzRBD8W">Apply Now</a>
-</div>
 </div>
