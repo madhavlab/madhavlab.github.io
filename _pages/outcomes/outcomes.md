@@ -5,6 +5,17 @@ excerpt: Outcomes
 permalink: /outcomes/
 ---
 
+### Demos
+[Playlist on our YouTube page](https://youtube.com/playlist?list=PLbtAaXHMto-vtY2cXn_rX69fyncxhos4g&si=WjO588TxWXaXFunL) <br>
+It includes demos of systems we made:
+- Automatic Speech Recognition: audio to text with editing interface (2024)
+- Spoken Term Detection: speak a word and this system will find whereever that word is spoken by anyone in a video database (2024)
+- Audio Fingerprinting: give a short audio recording and this system will find the original audio from an audio/video database (2024)
+- Text-based Event Search: write a word (e.g., horror music, clapping, lion) to find audio/video containing that kind of audio from an audio/video database (2024)
+- Live Sound Event Detection (2023)
+- Music Education: Smart platform for teaching music that automatically detects singing mistakes in a learner by matching with teacher's singing (2023)
+- Voice Assistant for Child-birth: ASR based interaction with nurses, delivery room management and tracking of mother's vitals during delivery (2022)
+
 ### Datasets
 - [MADHAV Lab Mistake Detection for Music Teaching (M3) Database](datasets/m3)
 - [MADHAV Lab Tic Database](datasets/mtic/)
@@ -13,19 +24,6 @@ permalink: /outcomes/
 - [Automatic Music Tutor](https://vipular.github.io/narottam.github.io/)
 - For other softwares and codebases to our projects, please visit our [github](https://github.com/madhavlab) page.
 
-### Talks
-
-|:-----------|:----|:-------:|
-|Tutorial on ***Meta Learning***  |Jan 2023| CODS-COMAD conference, IIT Bombay|
-|Talk on [“***Model Adaptation for Learning from Small Data***”](https://www.youtube.com/watch?v=-_AS8_NNtWw)|Oct 2022| Queen Mary University London|
-|Talk on “***Learning with Little Data by Model Adaptation: Applications in Music, Sensors and Generative ML***”  |Oct 2022| CVSSP, University of Surrey|
-|Keynote lecture on “***Enhancing Speech and Music Education using Machine Learning***” |Feb 2022| FRSM conference, online|
-|Tutorial on “***Acoustic Event Detection with Neural Networks***”    |Dec 2021| NIT Jalandhar|
-|Short Course on “***AI in Healthcare***”     |Mar 2021| IIT Jammu|
-|Talk on “***Machine Learning and Audio Signals***”   |Jun 2020| RAIT, Navi Mumbai|
-|General Linguistics Seminar titled "***Modern speech technologies and applications of phonology***"   |May 2019| University of Oxford, UK|
-|Talk on "***AI for speech technologies***" at Industry 4.0 event     |March 2019 | LPU, Punjab|
-|Lecture on "***Machine Learning for Speech and Audio applications***", in 2018 IEEE CIS Summer/Winter School on Deep Learning and Computational Intelligence     |Dec 2018| IIT Kanpur|
 
 
 
