@@ -5,9 +5,7 @@ permalink: /
 ---
 
 
-<span>For open positions, see</span> [Jobs](jobs).<br>
-- We have multiple openings for <span style="color:#cc0000">students interns</span> and <span style="color:#cc0000">short-term research assistants (after BTech)</span> to work with us on audio LLMs and diffusion models. More details <a href="2024_UGPs/" target="_blank">here</a>. 
-- We have an opening for <span style="color:#cc0000">postdoc</span> on adaptation of regression models over graphs. Candidates with strong background in machine learning are welcome to apply.
+For open positions, see [Jobs](jobs).<br>
 
 ### About
 The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in) set up and led by [Prof. Vipul Arora](https://vipular.github.io).
@@ -28,6 +26,8 @@ Our group’s research interests lie at the intersection of the theory and appli
       - Image generation
       - Sensor calibration
 
+See our lab outcomes [here](/outcomes/)
+
 ### News
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -36,12 +36,16 @@ Our group’s research interests lie at the intersection of the theory and appli
     <p>
     <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
         <ul id="news">
+            <li><b>Oct 2024</b>: Paper ("FlowHash: Accelerating Audio Search with Balanced Hashing via Normalizing Flow") accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Anup.</li>
+            <li><b>Oct 2024</b>: <a href="https://ieeexplore.ieee.org/document/10682122">Paper</a> accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Sagar.</li>
+            <li><b>Oct 2024</b>: Patent Granted: "Machine-Learning Based (ML-Based) Audio Tokenizing System And Method For Indexing And Retrieving Audio Sequences". </li>
             <li><b>Jun 2024</b>: Prof. Arora gave an invited talk on "Mode-Collapse in Generative Models" at TU Berlin.</li>
             <li><b>Jun 2024</b>: <a href="https://ieeexplore.ieee.org/document/10564143">Paper</a> accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Nagarathna and Thishyan.</li>
             <li><b>May 2024</b>: <a href="https://ieeexplore.ieee.org/document/10560048">Paper</a> accepted in IEEE Trans. Neural Networks and Learning Sys. Congratulations Swapnil.</li>
             <li><b>May 2024</b>: Prof. Arora is awarded the PK Kelkar Research Fellowship for three years.</li>
             <li><b>May 2024</b>: <a href="https://scipost.org/submissions/2401.15948v2/">Paper</a> accepted in Scipost Physics. Congratulations Vikas.</li>
             <li><b>May 2024</b>: <a href="https://doi.org/10.1109/TASLP.2024.3399614">Paper</a> accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Kavya.</li>
+            <li><b>Apr 2024</b>: Patent Granted: "System and Method for Music Training". </li>
             <li><b>Mar 2024</b>: Prof. Arora gave a talk on "Human machine learning for Searching Big Audio Data" at NIT Calicut.</li>
             <li><b>Feb 2024</b>: Prof. Arora gave a keynote talk on "Human-machine learning" at ICMLA conference at Chitkara University.</li>
             <li><b>Dec 2023</b>: <a href="https://wissap23.madhavlab.com" target="_blank">WiSSAP 2023</a> school (AI for Music) concluded successfully. <a href="https://wissap23.madhavlab.com/#schedule" target="_blank">Videos and slides are here.</a> </li>

@@ -4,13 +4,13 @@ layout: page
 permalink: /jobs/
 ---
 
-Current positions are always listed here. They may also be posted on MADHAV Lab [LinkedIn](https://www.linkedin.com/company/madhav-lab/) page.
-  <!-- - If you are interested in 6-month to 1-year research-focused internships in machine learning/deep learning/audio processing and have relevant background (coursework/projects in machine learning/deep learning, exposure to reading/writing papers in top-tier conferences), please send an email with subject line “Long-term Research Position at MADHAV Lab”. -->
-  <!-- - Available [UG Projects](/2024_UGPs) for Fall 2023. -->
+Current positions are always listed here and are posted on MADHAV Lab [LinkedIn](https://www.linkedin.com/company/madhav-lab/) page.
 
-  <!-- - You can also checkout [SURGE](https://surge.iitk.ac.in/), the annual summer research internship program at IIT Kanpur. You can write your area of interest and proposed project for the duration before submitting your application. -->
+- For UG:
+  - Available [UG Projects](/2024_UGPs) for Spring 2025.
+  - You can also checkout [SURGE](https://surge.iitk.ac.in/), the annual summer research internship program at IIT Kanpur. You can write your area of interest and proposed project for the duration before submitting your application.
 
-
+- For postdocs and research associates:
 <style>
 .container {
   display: flex;
