@@ -14,7 +14,7 @@
       <h5 class="mt-0"><a href="{{ member.url }}">{{ member.title }}</a></h5>
       <p>{{member.role}}</p>
       <p>{{member.hereas}}</p>
-      <p>{{member.current}}</p>
+      <p><a href={{member.currentlink}} target="_blank">{{member.current}}</a></p>
       {%- include team_member_social.html -%}
     </div>
 </li>
