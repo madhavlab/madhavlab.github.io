@@ -1,10 +1,11 @@
 ---
 layout: member
-category: Masters-Students
+category: alumni
 title: 'Raja Raviteja Chaganti'
 image: 'rraja21.jpeg'
 date: 2021-08-21
 role: ASR in Indian languages (mainly Hindi)
+hereas: Masters-Students
 permalink: 'team/rraja21'
 social:
     linkedin: https://www.linkedin.com/in/chaganti-ravi-teja-533276217/

@@ -138,63 +138,90 @@ href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css
 
       <div class="mt-3">
         <div>
-	<h1 class="mb-5">Job Openings</h1>
-	<p>Current positions are always listed here and are posted on MADHAV Lab <a href="https://www.linkedin.com/company/madhav-lab/">LinkedIn</a> page.</p>
+	<h1 class="mb-5"></h1>
+	<ol>
+  <li>Principles:</li>
+</ol>
 
-<ul>
-  <li>For UG:
-    <ul>
-      <li>Available <a href="/2024_UGPs">UG Projects</a> for Spring 2025.</li>
-      <li>You can also checkout <a href="https://surge.iitk.ac.in/">SURGE</a>, the annual summer research internship program at IIT Kanpur. You can write your area of interest and proposed project for the duration before submitting your application.</li>
-    </ul>
-  </li>
-  <li>For postdocs and research associates:</li>
-</ul>
-<style>
-.container {
-  display: flex;
-  justify-content: 5px; /* Adjust as needed */
-}
-.card {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 20px;
-  width: 300px;
-  margin: 20px;
-  background-color: #f9f9f9;
-}
+<p>We have 4 separate levels where our lab data is stored:</p>
 
-.card h2 {
-  color: #333;
-}
+<p>Every user has its own home repository and can be accessed at /users/<username>. Your home directory, by default, can be accessed by other group members to facilitate easy collaboration. Users can use the command <chmod> to control who can access what.</chmod></username></p>
 
-.card p {
-  color: #666;
-}
+<p>User accounts are created on SSD, which is used as login node.</p>
 
-.card a {
-  text-decoration: none;
-  color: #007bff;
-  font-weight: bold;
-}
+<p>Every user is allocated a disk quota of 100 GB.</p>
 
-.card a:hover {
-  text-decoration: underline;
-}
-</style>
+<p>This repository is only meant to store the files (for e.g., codes) and must not be used for experiments purpose, i.e., do not dump your experiments outputs here.</p>
 
-<div class="container">
-  <div class="card">
-    <h2>Research Associate (AI for Environmental Science)</h2>
-    <p><a href="https://forms.office.com/r/we8AhP7RFs">Apply Now</a></p>
-  </div>
+<p>Every user is assigned a repository on the HDD and can be accessed at /hdd_storage/scratch/<username>. Users can store their experiments related output data in this repository.</username></p>
 
-  <div class="card">
-    <h2>Research Associate (AI for Audio Representation and Retrieval)</h2>
-    <p><a href="https://forms.office.com/r/gMd7nPxQQx">Apply Now</a></p>
-  </div>
+<p>The shared data (read-only) that group members can access is managed as follows:</p>
 
-</div>
+<p>Audio related databases:  /hdd_storage/data/<database name=""></database></p>
+
+<p>Applications: /hdd_storage/data/<application name=""></application></p>
+
+<p>A part of the storage is dedicated to the dump repository located at /hdd_storage/experiments_dump/. Most experiments involve generating intermediate results which may not be relevant after some point of time. Hence, you are encouraged to dump those here. By convention, you may create your own dump repository at the following path: /hdd_storage/experiments_dump/<username>. Its contents will be deleted when we run into storage space problems.</username></p>
+
+<ol>
+  <li>Running Jobs:</li>
+</ol>
+
+<p>2.1 Work at home:</p>
+
+<p>Our servers can be accessed only on the IITK network. IITK has a VPN service that allows you to connect with the IITK network from anywhere. Detailed instructions on using VPN can be found <a href="https://www.iitk.ac.in/cc/services/network/how-to-use-ssl-vpn">here</a>.</p>
+
+<p>2.2 GPU servers:</p>
+
+<p>Sudoer of all the servers: Sachin</p>
+
+<p>Sanganak41 (172.26.83.141): 4x RTX3080 10GB GPU cards</p>
+
+<p>Sanganak42 (172.26.83.142): 4x RTX3080 10GB GPU cards</p>
+
+<p>Sanganak43 (172.26.83.143): 3x A30 24GB GPU cards</p>
+
+<p>Sanganak44 (172.26.83.144): 2x … 8GB GPU cards</p>
+
+<p>2.3 Access GPU servers:</p>
+
+<p>Users are encouraged to enable SSH-based login to allow easy access OR</p>
+
+<p>ssh <username>@<gpu server="" ip="" address=""> OR</gpu></username></p>
+
+<p>Users may use the following command to allow port forwarding (example, running Jupyter notebooks remotely) and remote graphics rendering (example: using MATLAB remotely): ssh -X –L 8000:localhost:<remote port="" number="" to="" be="" forwarded="">  <username>@<gpu server="" ip="" address=""></gpu></username></remote></p>
+
+<ol>
+  <li>Troubleshoot/Request Sudoer:</li>
+</ol>
+
+<p>Users may post their queries on the “Compute channel” related to accessing the servers or other issues.</p>
+
+<p>To install a package on the server that requires sudo access, the user should send a request via email/Teams to the sudoer (and put Prof. Vipul Arora in cc) of the respective server –&gt; (Internal request platform to be created by Sachin)</p>
+
+<ol>
+  <li>Tips and Tricks:</li>
+</ol>
+
+<p>Use rsync to allow fast transfer of files. It also resumes transfer operation if it failed earlier due to some reason.</p>
+
+<p>Use crontab to schedule a regular backup of your codes to your local machine or vice versa.</p>
+
+<p>Use sshfs (fast) or sftp (slow) to mount remote repositories onto your local machine.</p>
+
+<ol>
+  <li>Malpractice:</li>
+</ol>
+
+<p>Users must avoid the following practices while using the servers to allow a smooth experience for every user.</p>
+
+<p>Occupying all the GPUs for a longer period. If required, the user must take permission from Prof. Vipul Arora and inform all the server users beforehand.</p>
+
+<p>Not shutting the Jupyter notebook when not required. It consumes memory space and should be freed.</p>
+
+<p>Use all CPU cores when multiprocessing/multithreading to speed up your codes.</p>
+
+<p>Doing experiments from your home directory instead of scratch directory. Heavy read/write operations on SSD (For example, loading data batches from SSD during training a model) will make the SSH access slow.</p>
 
 </div>
 

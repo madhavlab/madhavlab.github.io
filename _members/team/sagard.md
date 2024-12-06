@@ -1,9 +1,10 @@
 ---
 layout: member
-category: Postdoc
+category: alumni
 title: Sagar Dutta
 date: 2022-01-09
 image: sagard.jpeg
+hereas: Post Doc Fellow
 role: Audio Content Retrieval
 permalink: 'team/sagard'
 social:

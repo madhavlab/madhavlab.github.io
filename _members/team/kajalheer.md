@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category:
 title: Kajal Heer
 date: 2022-01-07
 image: KajalHeer.png

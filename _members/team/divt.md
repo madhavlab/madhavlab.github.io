@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category: 
 title: Divyanshu Tripathi
 date: 2022-02-08
 image: divt.jpeg

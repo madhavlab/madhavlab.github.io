@@ -1,9 +1,12 @@
 ---
 layout: member
-category: Project-Associate
+category: alumni
 title: Shivam Pal
 date: 2023-07-03
 image: shivam.png
+hereas: 'Here as: Masters Student'
+current: 'Current: Own Startup'
+permalink: 'team/shivampal'
 role: 
 social:
     twitter: 

@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category: 
 title: Vibha Dwivedi
 date: 20-03-2023
 image: 'vibhad.jpeg'

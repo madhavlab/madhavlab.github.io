@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category: 
 title: Shruti Mishra
 date: 24-03-2023
 image: shrutim.jpeg

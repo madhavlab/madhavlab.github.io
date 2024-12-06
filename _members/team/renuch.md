@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category: 
 title: Renu Chavan
 date: 2021-12-10
 image: placeholder-f.jpeg

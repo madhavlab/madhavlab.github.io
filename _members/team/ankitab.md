@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category: 
 title: Ankita Bhattacharya
 date: 2022-01-02
 image: ankitab.jpeg
@@ -13,5 +13,4 @@ social:
     orcid: 
     google-scholar: 
     email: ankitab@iitk.ac.in
-
 ---

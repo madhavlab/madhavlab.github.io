@@ -1,6 +1,6 @@
 ---
 layout: member
-category: Project-Associate
+category:
 title: Sachidanand Prajapati
 date: 2023-04-14
 image: placeholder-m.jpeg
