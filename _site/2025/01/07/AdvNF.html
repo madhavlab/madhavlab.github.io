@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+
+  <!-- favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon_io/favicon-16x16.png">
+  <link rel="manifest" href="/assets/favicon_io/site.webmanifest">
+
+<!-- Scripts mainly for the publication part -->
+<script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js/src/bibtex_js.js"></script>
+<script type="text/javascript">
+  function reset() {
+      $("select").each(function () {
+	  localStorage.setItem($(this).attr("id"),"");
+	  $(this).val("");
+      });
+      $("#searchbar").val("");
+      $("#searchbar").trigger('change');
+  }
+</script>
+
+<!-- Remember to include jQuery :) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<!-- Academics -->
+<link rel="stylesheet"
+href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+<!-- additional CSS information -->
+<style>
+  /* Bibtex navigation bar */
+  .bibtex_search_bar {
+      text-align: center;
+  }
+
+  /* Bibtex item */
+  .bibtexentry {
+      margin-top: 0.2em;
+      margin-bottom: 02em;
+  }
+
+  .url {
+      background: url('https://api.iconify.design/il:url.svg') no-repeat center center / contain;
+  }
+
+  .modal { max-width: 90%; }
+
+  /* The alert message box */
+  .alert {
+      padding: 20px;
+      background-color: #f44336; /* Red */
+      color: white;
+      margin-bottom: 15px;
+      width: 50%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+</style>
+
+
+</head>
+
+
+  <body>
+
+    <div class="container-fluid">
+      <div><header class="site-header" role="banner">
+
+	<nav class="navbar navbar-expand-sm navbar-light px-0">
+
+		<!-- Navbar brand -->
+		<a class="navbar-brand" href="/">MADHAV Lab</a>
+
+		<!-- Navbar toggler button -->
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
+			aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+
+		<!-- Navbar links -->
+		<div class="collapse navbar-collapse" id="navbarToggler">
+			<ul class="navbar-nav mr-auto">
+				<li>
+					<a class="nav-link" href="/team">Team</a>
+				</li>
+				<li>
+					<a class="nav-link" href="/publications">Publications</a>
+				</li>
+				<li>
+					<a class="nav-link" href="/projects">Projects</a>
+				</li>
+				<li>
+					<a class="nav-link" href="/outcomes">Outcomes</a>
+				</li>
+				<li>
+					<a class="nav-link" href="/jobs">Jobs</a>
+				</li>
+				<li>
+					<a class="nav-link" href="/resources">Resources</a>
+				</li>
+				<li>
+					<a class="nav-link" href="/gallery">Gallery</a>
+				</li>
+				<li>
+					<a class="nav-link" href="/blog">Blog</a>
+				</li>
+			</ul>
+		</div>
+
+	</nav>
+
+</header>
+</div>
+
+      <div class="mt-3">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <!-- Set the heights manually -->
+  <style>
+    h1 {
+      font-size: 1.85rem;
+    }
+    h2 {
+      font-size: 1.75rem;
+    }
+    h3 {
+      font-size: 1.5rem;
+    }
+    h4 {
+      font-size: 1.25rem;
+    }
+    h5 {
+      font-size: 1rem;
+    }
+  </style>
+
+  <header class="post-header">
+    <h1 style="font-size:2.4rem" class="post-title p-name" itemprop="name
+    headline">AdvNF Reducing mode collapse in conditional normalising flows using adversarial learning</h1>
+    <br>
+    <p class="post-meta"><time class="dt-published" datetime="2025-01-07T00:00:00+05:30" itemprop="datePublished">
+        Jan 7, 2025
+      </time><br></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <h3 id="how-can-we-teach-machines-to-understand-complex-patterns-a-dive-into-advnf"><span style="color:deepskyblue;">How Can We Teach Machines to Understand Complex Patterns? A Dive into AdvNF</span></h3>
+
+<p>Many times we know the microscopic equations describing the complex systems and we want to know the macroscopic behaviour, but the equations give rise to density functions which are too complex to sample. Such systems are abundant in fundamental sciences, such as Physics and climate science. This paper proposes a new machine learning approach to generate samples from such complex density functions in a more reliable way than the existing ones.</p>
+
+<h3 id="what-are-normalizing-flows"><span style="color:DeepSkyBlue;">What Are Normalizing Flows?</span></h3>
+
+<p>At their core, <strong>Normalizing Flows</strong> are machine learning models that transform simple patterns into complex ones. Imagine you start with random dots scattered uniformly in a square. NFs take these dots and transform them step by step, turning them into intricate shapes like a flower, a galaxy, or any desired arrangement.</p>
+
+<p>They’re called “flows” because these transformations happen gradually, like water flowing through pipes, where each pipe adds a unique twist or turn.</p>
+
+<h3 id="the-problem-mode-collapse"><span style="color:deepskyblue;">The Problem: Mode Collapse</span></h3>
+
+<p>While Normalizing Flows are powerful, they have a critical flaw called mode collapse.</p>
+
+<h5 id="mode-collapse-why-only-cats"><span style="color:darkred">Mode Collapse: Why Only Cats?</span></h5>
+
+<p>Imagine training a model to generate pictures of animals: cats, dogs, and birds. After training, the model produces only pictures of cats, ignoring the dogs and birds entirely. This happens when the model focuses on just one part of the data (one “mode”) and fails to represent the diversity in the dataset.</p>
+
+<h5 id="why-is-this-a-problem"><span style="color:darkred">Why is this a problem?</span></h5>
+<p>In fields like physics, mode collapse can cause serious issues. For example, if you’re simulating weather patterns and the model focuses only on rainy conditions, it could miss critical scenarios like sunny or snowy weather.</p>
+
+<h3 id="our-solution-advnf"><span style="color:deepskyblue;">Our Solution: AdvNF</span></h3>
+
+<p>To solve this issue, researchers developed <strong>AdvNF</strong>, a machine learning method designed to reduce mode collapse and produce more diverse and accurate samples. Here’s why AdvNF is a game-changer:</p>
+
+<ul>
+  <li>
+    <p>Existing methods to train NFs, such as <strong>Reverse KL Divergence (RKL)</strong> and <strong>Forward KL Divergence (FKL)</strong>, have limitations:</p>
+
+    <ul>
+      <li>
+        <p><strong>RKL</strong> does not need training data but often results in severe mode collapse.</p>
+      </li>
+      <li>
+        <p><strong>FKL</strong> avoids mode collapse with the help of data but produces highly varied and unreliable results, producing samples even where there should be none.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>AdvNF</strong> combines the strengths of both methods using a technique called <strong>adversarial training</strong>. This creates a balanced system that ensures accuracy and diversity.</p>
+  </li>
+</ul>
+
+<h4 id="how-does-advnf-work"><span style="color:darkred">How Does AdvNF Work?</span></h4>
+
+<p>AdvNF uses <strong>two competing models</strong> in its training process:</p>
+
+<ul>
+  <li>
+    <p><strong>The Generator:</strong> It is a normalizing flow model that tries to create realistic patterns (like generating pictures of animals).</p>
+  </li>
+  <li>
+    <p><strong>The Discriminator:</strong> Acts as a critic, distinguishing between real data and the generator’s output.</p>
+  </li>
+</ul>
+
+<h4 id="learning-through-competition"><span style="color:darkred">Learning Through Competition</span></h4>
+
+<ul>
+  <li>
+    <p>The generator improves by trying to fool the discriminator into believing its output is real.</p>
+  </li>
+  <li>
+    <p>The discriminator sharpens its skills by identifying flaws in the generator’s output.</p>
+  </li>
+</ul>
+
+<p>This back-and-forth competition helps the model learn more effectively, ensuring it doesn’t miss parts of the data (like generating only cats but ignoring dogs and birds).</p>
+
+<h4 id="why-does-this-matter"><span style="color:darkred">Why Does This Matter?</span></h4>
+
+<p>AdvNF isn’t just a theoretical concept—it has been tested on real-world problems and has delivered impressive results.</p>
+
+<ol>
+  <li>
+    <h4 id="applications-of-advnf">Applications of AdvNF</h4>
+    <ul>
+      <li>
+        <p><strong>Simple 2D Data:</strong> For example, generating patterns like rings or clusters of dots. AdvNF captures all patterns instead of focusing on just one type.</p>
+      </li>
+      <li>
+        <p><strong>Physics Simulations:</strong> In models like the XY Spin Model (used to study material properties), AdvNF generates better and more diverse samples compared to traditional methods.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <h4 id="a-real-life-analogy-detecting-fake-currency">A Real-Life Analogy: Detecting Fake Currency</h4>
+  </li>
+</ol>
+
+<p>Imagine a system designed to detect counterfeit currency:</p>
+
+<ul>
+  <li><strong>The Counterfeiter (Generator):</strong> Tries to create fake currency that looks as real as possible.</li>
+  <li><strong>The Inspector (Discriminator):</strong> Examines the currency and decides whether it’s real or fake.</li>
+</ul>
+
+<p>Initially, the counterfeiter’s attempts are crude, and the inspector can easily spot the 	fakes. Over time, the counterfeiter learns from the inspector’s feedback and starts 	creating more convincing fake notes. Meanwhile, the inspector sharpens their skills by 	identifying increasingly subtle differences between real and fake currency.</p>
+
+<p>This back-and-forth process makes both better at their jobs:</p>
+
+<ul>
+  <li>
+    <p>The counterfeiter (generator) becomes an expert at producing high-quality fake notes.</p>
+  </li>
+  <li>
+    <p>The inspector (discriminator) becomes highly skilled at detecting even the best counterfeits.</p>
+  </li>
+</ul>
+
+<p>AdvNF uses a similar approach. The generator creates patterns, the discriminator critiques them, and both work together to improve the quality and diversity of the generated patterns.</p>
+
+<h3 id="benefits-of-advnf"><span style="color:deepskyblue;">Benefits of AdvNF</span></h3>
+
+<ol>
+  <li>
+    <p><strong>Improved Results:</strong> AdvNF produces more accurate and diverse samples compared to traditional methods like GANs, VAEs, and standard NFs.</p>
+  </li>
+  <li>
+    <p><strong>Efficiency with Fewer Samples:</strong> Even when trained with very few real samples, AdvNF performs well, making it cost-effective.</p>
+  </li>
+  <li>
+    <p><strong>Scales with Complexity:</strong> As systems become more complex (like larger physics models), AdvNF continues to deliver better results than other methods.</p>
+  </li>
+</ol>
+
+<h3 id="future-directions"><span style="color:deepskyblue;">Future Directions</span></h3>
+
+<p>While AdvNF has shown excellent results, there’s always room for improvement:</p>
+
+<ol>
+  <li>
+    <p><strong>Exploring New Applications:</strong> How well does AdvNF perform in even more complex scenarios, like quantum systems? This remains to be explored.</p>
+  </li>
+  <li>
+    <p><strong>Scaling Up:</strong> Larger simulations require more time and resources. Future work could focus on making AdvNF faster and more scalable.</p>
+  </li>
+</ol>
+
+<h3 id="conclusion"><span style="color:deepskyblue;">Conclusion</span></h3>
+
+<p>AdvNF provides an efficient algorithm in machine learning, especially for fields like physics. By addressing the problem of mode collapse, it allows for more accurate and diverse data modeling. Whether it’s designing new materials, predicting environmental changes, AdvNF paves the way for more accurate, faster, and more efficient simulations.</p>
+
+<p>In short, AdvNF is a powerful tool for understanding and replicating the complex patterns that define our world. It’s a promising step toward solving even more challenging problems in the future.</p>
+
+
+  </div><a class="u-url" href="/2025/01/07/AdvNF.html" hidden></a>
+</article>
+
+      </div>
+
+      <div>
+        <div id="footer" class="site-footer mt-5">
+	<div class="mt-3">
+		<div class="row d-flex">
+
+			<div class="col-sm-6">
+				<p class="font-weight-bold">MADHAV Lab</p>
+
+				<ul class="list-unstyled list-inline">
+					<li class="list-inline-item">
+						<a href="https://iitk.ac.in">
+							<img class="img-fluid" src="/assets/images/iitk_logo.png" style="max-height: 80px;">
+						</a>
+					</li>
+
+			</div>
+
+			<div class="col-sm-3">
+				<p class="font-weight-bold">Links</p>
+				<ul class="list-unstyled">
+					<li><a href="https://twitter.com/madhavlab" target="_blank">Twitter</a></li>
+                    <li><a href="https://linkedin.com/company/madhav-lab" target="_blank">LinkedIn</a></li>
+					<li><a href="https://github.com/madhavlab" target="_blank">Github</a></li>
+				</ul>
+			</div>
+
+			<div class="col-sm-3">
+				<p class="font-weight-bold">Contact</p>
+				ACES 305D, <br>
+				Electrical Engineering, <br>
+				Indian Institue of Technology Kanpur, <br>
+				UP, India <br>
+			</div>
+		</div>
+
+		<div class="footer-copyright text-center py-3">
+			© 2023 MADHAV Lab - Machine Analysis of Data for Human Audition and Visualization Lab
+		</div>
+	</div>
+</div>
+
+      </div>
+    </div>
+
+  </body>
+
+</html>
