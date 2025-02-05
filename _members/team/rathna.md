@@ -1,10 +1,11 @@
 ---
 layout: member 
-category: Postdoc
+category: alumni
 title: Nagarathna Ravi
 date: 2020-05-24
 image: rathna.jpeg
 role: Automatic Speech Recognition
+hereas: Post Doc Fellow
 permalink: 'team/rathna'
 social:
     twitter:

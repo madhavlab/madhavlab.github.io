@@ -4,7 +4,7 @@ category: alumni
 title: Shivam Pal
 date: 2023-07-03
 image: shivam.png
-hereas: 'Here as: Masters Student'
+hereas: M.Tech
 current: 'Current: Own Startup'
 permalink: 'team/shivampal'
 role: 
