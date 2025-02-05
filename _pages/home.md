@@ -4,8 +4,7 @@ layout: homelay
 permalink: /
 ---
 
-
-For open positions, see [Jobs](jobs).<br>
+- 2025 Summer projects for IITK UGs: see [here](/2025_summerproject/)
 
 ### About
 The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab  is a research group in the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in) set up and led by [Prof. Vipul Arora](https://vipular.github.io).
