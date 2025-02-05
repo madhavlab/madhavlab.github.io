@@ -9,6 +9,8 @@ Current positions are always listed here and are posted on MADHAV Lab [LinkedIn]
 - For UG:
   - Available [UG Projects](/2024_UGPs) for Spring 2025.
   - You can also checkout [SURGE](https://surge.iitk.ac.in/), the annual summer research internship program at IIT Kanpur. You can write your area of interest and proposed project for the duration before submitting your application.
+
+
 <!---
 - For postdocs and research associates:
 <style>
@@ -55,4 +57,5 @@ Current positions are always listed here and are posted on MADHAV Lab [LinkedIn]
 </div>
 
 </div>
+
 -->
