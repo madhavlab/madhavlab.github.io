@@ -1,4 +1,9 @@
-# Summer Project (DCASE challenge)
+---
+title: Summer Project (DCASE challenge)
+layout: page
+permalink: /2025_summerproject
+---
+
 Here is an exciting opportunity to work on cutting-edge projects in the field of Audio Processing through the [DCASE2025 Challenge](https://dcase.community/challenge2025/). This international competition features various tasks using Machine Learning, Audio Processing, and related domains, offering a platform to apply and enhance your technical skills.
 
 Students interested in participating under the guidance of Prof. Vipul Arora are encouraged to complete the screening task provided below.
