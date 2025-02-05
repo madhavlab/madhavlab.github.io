@@ -21,11 +21,11 @@ The task is as simple as it can be: create a model to classify non-speech sounds
 **Metrics**: 
 Provide F1 Score, Precision and Recall as the final evaluation metrics by checking on the test data labels. The models will be verified along with the scores provided, so answer them as accurately as possible.
 
-**Dataset:**
+**Dataset:** ([**download link**](https://zenodo.org/records/6967442))
 The dataset consists of 7,014 files delivered as 32kHz, mono audio files in .wav format and divided into train and test sets. The train set consists of 6,289, and the test set consists of 725 files. The files were strongly manually annotated with a single ground-truth label. The length of each file is from 500 milliseconds to 4 seconds. It consists of 7 classes of non-speech sounds, based on which the labels have been provided in the metadata for the train and test data.
 
-**Dataset Link:** https://zenodo.org/records/6967442 
+
 
 ## Submission:
 - **What to submit:** ipynb notebook and 3-fold cross validation results: F1 score, precision and recall
-- **Submission Link:** https://forms.gle/8sSNdAN4PNQpy7xN9 
+- [**Submission Link**](https://forms.gle/8sSNdAN4PNQpy7xN9)
