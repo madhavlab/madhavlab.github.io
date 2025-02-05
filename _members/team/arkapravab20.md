@@ -1,10 +1,11 @@
 ---
 layout: member
-category: Masters-Students
+category: alumni
 title: 'Arkaprava Biswas'
 image: 'arkapravab20.jpeg'
 date: 2020-08-18
 role: Domain Adaptaion
+hereas: M.Tech
 permalink: 'team/arkapravab20'
 social:
     linkedin: https://www.linkedin.com/in/arkaprava-biswas-214096187

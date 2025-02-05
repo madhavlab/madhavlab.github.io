@@ -1,10 +1,11 @@
 ---
 layout: member
-category: Masters-Students
+category: alumni
 title: 'Suraj Jaiswal'
 image: 'jsuraj.jpeg'
 date: 2023-08-05
 role: Music Information Retrieval
+hereas: MSR
 permalink: 'team/jsuraj'
 social:
     linkedin: https://www.linkedin.com/in/suraj-jaiswal-732823167/ 

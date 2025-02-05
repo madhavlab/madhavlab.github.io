@@ -1,10 +1,11 @@
 ---
 layout: member
-category: Research-Associate
+category: alumni
 title: 'Akshay Raina'
 image: 'placeholder-m.jpeg'
 date: 2022-05-03
 role: Representation Learning, MIR
+hereas: Resaerch Associate
 permalink: 'team/akshayr'
 social:
     linkedin: https://www.linkedin.com/in/akshayraina1/
