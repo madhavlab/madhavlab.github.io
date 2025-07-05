@@ -30,7 +30,7 @@ It includes demos of systems we made:
 
 - M3 dataset: Not public yet 
 
-- PB dataset (Parampreet): Not public yet 
+- PB dataset: Not public yet 
 
 ### Softwares
 - [Automatic Music Tutor](https://vipular.github.io/narottam.github.io/)
