@@ -20,6 +20,18 @@ It includes demos of systems we made:
 - [MADHAV Lab Mistake Detection for Music Teaching (M3) Database](datasets/m3)
 - [MADHAV Lab Tic Database](datasets/mtic/)
 
+- Ornamentation detection dataset (ROD):  
+    - [Dataset link](https://zenodo.org/records/15296955) 
+    - [Paper link](https://arxiv.org/pdf/2505.04419 )
+
+- HAR: Hindustani Alankaar and Raga Dataset: 
+    - [Dataset link](https://zenodo.org/records/8252222) 
+    - [Paper link](https://ieeexplore.ieee.org/iel7/6570655/6633080/10530096.pdf) 
+
+- M3 dataset: Not public yet 
+
+- PB dataset (Parampreet): Not public yet 
+
 ### Softwares
 - [Automatic Music Tutor](https://vipular.github.io/narottam.github.io/)
 - For other softwares and codebases to our projects, please visit our [github](https://github.com/madhavlab) page.
