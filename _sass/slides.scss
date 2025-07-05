@@ -1,0 +1,28 @@
+.slideshow-container {
+    position: relative;
+    max-width: 75%;
+    margin: auto;
+    overflow: hidden;
+    border-bottom: 8px;
+}
+
+.slides {
+    position: relative;
+}
+
+.slide {
+    width: 100%;
+    display: none;
+    object-fit: cover; /* Ensures image fits within the container */
+}
+
+.fade {
+    animation: fadeEffect 3s infinite;
+}
+
+@keyframes fadeEffect {
+    0% { opacity: 0; }
+    20% { opacity: 1; }
+    80% { opacity: 1; }
+    100% { opacity: 0; }
+}
