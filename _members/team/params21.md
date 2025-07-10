@@ -8,11 +8,11 @@ role: MIR, Explainable AI
 
 permalink: 'team/params21'
 social:
-    linkedin: https://www.linkedin.com/in/parampreet-singh-b2765721b/
+    linkedin: https://www.linkedin.com/in/parampreet-singh-b2765721b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
     website: https://home.iitk.ac.in/~params21/
     twitter:
     orcid: 
-    google-scholar: 
+    google-scholar: https://scholar.google.com/citations?user=GnRJ7S0AAAAJ&hl=en
     email: params21@iitk.ac.in
 
 ---

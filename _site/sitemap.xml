@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/team/</loc>
-<lastmod>2025-07-05T15:54:35+05:30</lastmod>
+<lastmod>2025-07-10T16:22:03+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/vipular</loc>
@@ -309,10 +309,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/gallery/carousel.html</loc>
-<lastmod>2025-07-04T16:54:42+05:30</lastmod>
+<lastmod>2025-07-10T16:17:10+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/stuff/2023_swaranjali2_poster.pdf</loc>
-<lastmod>2025-07-04T16:54:42+05:30</lastmod>
+<lastmod>2025-07-10T16:17:11+05:30</lastmod>
 </url>
 </urlset>
