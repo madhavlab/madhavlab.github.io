@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/team/</loc>
-<lastmod>2025-07-10T16:22:03+05:30</lastmod>
+<lastmod>2025-07-21T12:27:09+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team/vipular</loc>
@@ -215,6 +215,9 @@
 <loc>http://localhost:4000/2025_summerproject</loc>
 </url>
 <url>
+<loc>http://localhost:4000/projects/2025_vistar/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/learn/audiosearch/audiofingerprinting/</loc>
 </url>
 <url>
@@ -242,22 +245,22 @@
 <loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/learn/asr</loc>
-</url>
-<url>
 <loc>http://localhost:4000/learn/genml4images</loc>
 </url>
 <url>
-<loc>http://localhost:4000/learn/musiceducation</loc>
+<loc>http://localhost:4000/learn/asr</loc>
 </url>
 <url>
 <loc>http://localhost:4000/learn/ml4physics</loc>
 </url>
 <url>
+<loc>http://localhost:4000/learn/audiosearch</loc>
+</url>
+<url>
 <loc>http://localhost:4000/learn/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/learn/audiosearch</loc>
+<loc>http://localhost:4000/learn/musiceducation</loc>
 </url>
 <url>
 <loc>http://localhost:4000/learn/audiosearch/inforetrieval/</loc>

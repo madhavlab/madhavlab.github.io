@@ -28,6 +28,7 @@ permalink: /projects/
 --->
 
 |:----- |-----:|
+|[VISTAR](/projects/2025_vistar)|2025|
 |[Studying cognitive similarity of music using deep embeddings and behavioral studies with applications in music search and pedagogy](/projects/2023_csri_dst_music)|Approved recently|
 |[Voice Search](/projects/2022_meity_voice_search)|2022 - 2025|
 |[Machine Learning for Lattice Theories in Physics](/projects/2022_serb_lattice_theory)|2022 - 2025|
