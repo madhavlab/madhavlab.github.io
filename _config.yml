@@ -10,8 +10,8 @@ title:  MADHAV Lab - Machine Analysis of Data for Human Audition and Visualizati
 author: MADHAV Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Machine Analysis of Data for Human Audition and Visualization Lab, is a research group in
-  the Indian Institute of Technology Kanpur, started in 2018 by Prof. Vipul Arora. Current focus
+  Machine Analysis of Data for Human Audition and Visualization Lab, is a research group at ESAT, KU Leuven and
+  EE, IIT Kanpur, started in 2018 by Prof. Vipul Arora. Current focus
   of the research group lie at the intersection of the theory and application of machine learning - with a focus on applications 
   in audio and speech processing, and Physics.
 baseurl: ""
