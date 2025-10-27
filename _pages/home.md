@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ### About
-The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab is a research group at the [Department of Electrical Engineering](https://www.esat.kuleuven.be/) at [KU Leuven](https://kuleuven.be/) and the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [Indian Institute of Technology Kanpur](https://iitk.ac.in). It is set up and led by [Prof. Vipul Arora](https://vipular.github.io).
+The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab is a research group at the [Department of Electrical Engineering](https://www.esat.kuleuven.be/) at [KU Leuven](https://kuleuven.be/) and the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [IIT Kanpur](https://iitk.ac.in). It is set up and led by [Prof. Vipul Arora](https://vipular.github.io).
 
 Our research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in Audio and Physics. Our group focuses in the following areas:
 
@@ -23,15 +23,15 @@ Our research interests lie at the intersection of the theory and application of 
       - Image generation
       - Sensor calibration
 
-See our lab outcomes [here](/outcomes/)
+See our lab publications [here](/publication/) and other outcomes [here](/outcomes/). 
 
-### News
+<!-- ### News
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr>
-    <!-- <a id="news"><h2>News</h2></a> -->
+    <a id="news"><h2>News</h2></a>
     <p>
-    <div style="width:100%;overflow-y:scroll; height:180px;"><!--230px-->
+    <div style="width:100%;overflow-y:scroll; height:180px;">230px
         <ul id="news">
             <li><b>Oct 2024</b>: Paper ("FlowHash: Accelerating Audio Search with Balanced Hashing via Normalizing Flow") accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Anup.</li>
             <li><b>Oct 2024</b>: <a href="https://ieeexplore.ieee.org/document/10682122">Paper</a> accepted in IEEE/ACM Trans. Audio, Speech, Lang. Processing. Congratulations Sagar.</li>
@@ -62,4 +62,4 @@ See our lab outcomes [here](/outcomes/)
     </div>
     </p>
     </tr>
-</tbody></table>
+</tbody></table> -->
