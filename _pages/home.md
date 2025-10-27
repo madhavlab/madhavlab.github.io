@@ -7,13 +7,13 @@ permalink: /
 ### About
 The Machine Analysis of Data for Human Audition and Visualization (MADHAV) Lab is a research group at the [Department of Electrical Engineering](https://www.esat.kuleuven.be/) at [KU Leuven](https://kuleuven.be/) and the [Department of Electrical Engineering](https://iitk.ac.in/ee) at the [IIT Kanpur](https://iitk.ac.in). It is set up and led by [Prof. Vipul Arora](https://vipular.github.io).
 
-Our research interests lie at the intersection of the theory and application of machine learning - with a focus on applications in Audio and Physics. Our group focuses in the following areas:
+Our research interests lie at the intersection of the theory and application of probabilistic machine learning - with a focus on applications in Audio and Physics. Our group focuses in the following areas:
 
-  - Human Machine Learning
-      - Efficient data labeling
+  - Probabilistic Machine Learning
+      - Uncertainty Estimation
       - Data efficient learning and adaptation
-  - Generative Machine learning
-      - Normalizing flows, adversarial learning, diffusion models
+  - Generative AI
+      - Normalizing flows, flow matching, adversarial learning, diffusion models
       - Sampling methods: Monte Carlo, application in Physics (lattice QCD and statistical physics)
   - Audio signal processing
       - Audio LLMs: textless speech tokenization and fast search
