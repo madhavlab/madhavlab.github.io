@@ -4,12 +4,7 @@ layout: page
 permalink: /jobs/
 ---
 
-Current positions are always listed here and are posted on MADHAV Lab [LinkedIn](https://www.linkedin.com/company/madhav-lab/) page.
-
-- For UG:
-  - Available [UG Projects](/2024_UGPs) for Spring 2025.
-  - You can also checkout [SURGE](https://surge.iitk.ac.in/), the annual summer research internship program at IIT Kanpur. You can write your area of interest and proposed project for the duration before submitting your application.
-
+Fully funded PhD positions available at KU Leuven: [https://madhavlab.github.io/2025_phd/](https://madhavlab.github.io/2025_phd/)
 
 <!---
 - For postdocs and research associates:
