@@ -8,7 +8,7 @@ permalink: /outcomes/
 ### Demos
 [Playlist on our YouTube page](https://youtube.com/playlist?list=PLbtAaXHMto-vtY2cXn_rX69fyncxhos4g&si=WjO588TxWXaXFunL) <br>
 It includes demos of systems we made:
-- Automatic Speech Recognition: audio to text with editing interface (2024)
+- Automatic Speech Recognition: audio to text with confidence-based editing interface (2024)
 - Spoken Term Detection: speak a word and this system will find whereever that word is spoken by anyone in a video database (2024)
 - Audio Fingerprinting: give a short audio recording and this system will find the original audio from an audio/video database (2024)
 - Text-based Event Search: write a word (e.g., horror music, clapping, lion) to find audio/video containing that kind of audio from an audio/video database (2024)
@@ -30,11 +30,16 @@ It includes demos of systems we made:
 
 - M3 dataset: Not public yet 
 
-- PB dataset: Not public yet 
+- Hindi ASR dataset: 
+  - [Dataset link](https://zenodo.org/records/11162885)
+  - [Paper link](https://www.isca-archive.org/interspeech_2025/ravi25_interspeech.pdf)
 
 ### Softwares
+- [AdvNF for sampling Boltzmann distributions](https://github.com/madhavlab/2024_advnf)
+- [ScoreNF for sampling Boltzmann distributions](https://github.com/madhavlab/2026_scorenf)
 - [Automatic Music Tutor](https://vipular.github.io/narottam.github.io/)
-- For other softwares and codebases to our projects, please visit our [github](https://github.com/madhavlab) page.
+
+For other softwares and codebases to our projects, please visit our [github](https://github.com/madhavlab) page.
 
 
 
