@@ -4,7 +4,11 @@ layout: page
 permalink: /jobs/
 ---
 
-Fully funded PhD positions available at KU Leuven: [https://madhavlab.github.io/2025_phd/](https://madhavlab.github.io/2025_phd/)
+Any funded PhD positions are published at KU Leuven [jobsite](https://www.kuleuven.be/personeel/jobsite/jobs/phd?lang=en).
+
+For postdoc positions, please write to me directly.
+
+<!-- Fully funded PhD positions available at KU Leuven: [https://madhavlab.github.io/2025_phd/](https://madhavlab.github.io/2025_phd/) -->
 
 <!---
 - For postdocs and research associates:
