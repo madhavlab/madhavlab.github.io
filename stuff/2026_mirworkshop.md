@@ -1,13 +1,11 @@
 ---
-title: India MIR Workshop
+title: India MIR Workshop 2026
 layout: page
 excerpt: India MIR Workshop
 permalink: /2026_mirworkshop/
 ---
 
-# India MIR Workshop 2026
-
-<img width="1131" height="1600" alt="indmir_workshop" src="https://github.com/user-attachments/assets/0ed8c6e5-2614-491b-8689-435dfd104c49" />
+<img width="282" height="400" alt="indmir_workshop" src="https://github.com/user-attachments/assets/0ed8c6e5-2614-491b-8689-435dfd104c49" />
 
 **Dates**: 21-22 Aug  
 **Venue**: IIIT Hyderabad
@@ -25,7 +23,7 @@ permalink: /2026_mirworkshop/
 ## Schedule
 
 | Date | Time | Event | Venue |
-| :--- | :--- | :--- | :--- |
+| :------- | :------- | :------- | :------- |
 | 21 Aug 2026 | 15:30 - 16:00 | Talk-1: Music Information Retrieval Problems for Indian Music (Ajay Srinivasamurthy) | |
 | 21 Aug 2026 | 16:00 - 16:30 | Talk-2: (Vipul Arora) | |
 | 21 Aug 2026 | 16:30 - 17:00 | Q&A and discussion | |
