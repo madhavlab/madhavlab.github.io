@@ -28,7 +28,7 @@ permalink: /2026_mirworkshop/
 | | 16:00-16:30 | Talk-2: (Vipul Arora) |
 | | 16:30-17:00 | Q\&A and discussion |
 | | 17:00-18:00 | Open discussion |
-| 22 Aug 2026 | 09:00-10:30 | India MIR Roadmap discussion |
+| 22 Aug 2026 | 09:00-10:00 | India MIR Roadmap discussion |
 | | 10:00-10:30 | Talk-3: AI for Music Technology Applications (Ajay Srinivasamurthy) |
 | | 10:30-11:00 | Talk-4: (Vipul Arora) |
 | | 11:00-11:30 | Q\&A and discussion |
