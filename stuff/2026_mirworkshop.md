@@ -9,6 +9,7 @@ permalink: /2026_mirworkshop/
 
 **Dates**: 21-22 Aug, 2026  
 **Venue**: Nilgiri Room 328, IIIT Hyderabad
+**Organizer**: Prof. Saroja T K, IIIT Hyderabad
 
 ## Agenda
 - Introductory talks
@@ -26,7 +27,7 @@ permalink: /2026_mirworkshop/
 | :--- | :--- | :--- |
 | 21 Aug 2026 | 15:30-16:00 | Talk-1: Music Information Retrieval Problems for Indian Music (Ajay Srinivasamurthy) |
 | | 16:00-16:30 | Talk-2: (Vipul Arora) |
-| | 16:30-17:00 | Q\&A and discussion |
+| | 16:30-17:00 | Q&A and discussion |
 | | 17:00-18:00 | Open discussion |
 | 22 Aug 2026 | 09:00-10:00 | India MIR Roadmap discussion |
 | | 10:00-10:30 | Talk-3: AI for Music Technology Applications (Ajay Srinivasamurthy) |
