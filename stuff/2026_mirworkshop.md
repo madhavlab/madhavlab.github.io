@@ -8,7 +8,7 @@ permalink: /2026_mirworkshop/
 <img width="423" height="600" alt="indmir_workshop" src="https://github.com/user-attachments/assets/0ed8c6e5-2614-491b-8689-435dfd104c49" />
 
 **Dates**: 21-22 Aug, 2026  
-**Venue**: Nilgiri Room 328, IIIT Hyderabad
+**Venue**: Nilgiri Room 328, IIIT Hyderabad     
 **Organizer**: Prof. Saroja T K, IIIT Hyderabad
 
 ## Agenda
